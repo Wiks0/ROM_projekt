@@ -1,1 +1,1 @@
-# ROM_projekt
+Vpliv pandemije COVID-19 na trg kriptovalut
