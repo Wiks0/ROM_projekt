@@ -6,5 +6,6 @@ NAČRT PROJEKTA
 1. Kratek uvod v kriptovalute
 2. Pridobitev podatkov z interneta (večina Yahoo finance)
 3. prikaz grafov
+4. na koncu sem sestavil še preprost pretvornik v oblaku
 
 Link do YT posnetka:
