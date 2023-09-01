@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   2243353,      43055]
-NotebookOptionsPosition[   2237417,      42950]
-NotebookOutlinePosition[   2238457,      42978]
-CellTagsIndexPosition[   2238369,      42973]
+NotebookDataLength[   2246488,      43095]
+NotebookOptionsPosition[   2240357,      42988]
+NotebookOutlinePosition[   2241394,      43016]
+CellTagsIndexPosition[   2241306,      43011]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -47,7 +47,7 @@ tehnologiji imenovani blockchain, kar pomeni, da se transakcije in lastni\
 Prva in najbolj znana kriptovaluta je Bitcoin, ki se je prvi\[CHacek] \
 pojavila leta 2009, kot avtor pa je anonimna oseba\[LineSeparator]Satoshi \
 Nakamoto.
-Spodaj primera podatkov o bitcoinu in dve dejanski denarnici.
+Spodaj primera podatkov o bitcoinu in dve dejanski denarnici.\[LineSeparator]
 \
 \>", "Text",
  CellChangeTimes->{{3.902506660185032*^9, 3.902506673671833*^9}, {
@@ -56,8 +56,8 @@ Spodaj primera podatkov o bitcoinu in dve dejanski denarnici.
    3.902507938024814*^9, 3.902508010201026*^9}, {3.9025080462300386`*^9, 
    3.902508253413573*^9}, {3.9025082863779335`*^9, 3.9025082979062347`*^9}, {
    3.9025097039164777`*^9, 3.9025097413456645`*^9}, {3.902510353199954*^9, 
-   3.9025103589360466`*^9}, 3.9025104183590393`*^9, 
-   3.9025274442585344`*^9},ExpressionUUID->"496b71ab-6170-4220-9c5f-\
+   3.9025103589360466`*^9}, 3.9025104183590393`*^9, 3.9025274442585344`*^9, 
+   3.9025738066578274`*^9},ExpressionUUID->"496b71ab-6170-4220-9c5f-\
 7c5306d786c1"],
 
 Cell[CellGroupData[{
@@ -672,13 +672,13 @@ lastPathIsLeafHeader, TypeSystem`NestedGrid`PackagePrivate`headerHidden$ = And[
         Hold[
           TypeSystem`NestedGrid`PackagePrivate`localHold[
           TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]], StandardForm],
-      ImageSizeCache->{677., {90.634033203125, 96.365966796875}},
+      ImageSizeCache->{677., {89.634033203125, 95.365966796875}},
       TrackedSymbols:>{
        TypeSystem`NestedGrid`PackagePrivate`$state$$, 
         TypeSystem`NestedGrid`PackagePrivate`$grid$$}], 
      TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$ = 
      MouseAnnotation[],
-     ImageSizeCache->{677., {90.634033203125, 96.365966796875}}],
+     ImageSizeCache->{677., {89.634033203125, 95.365966796875}}],
     BaseStyle->{LineBreakWithin -> False},
     DynamicModuleValues:>{},
     Initialization:>(TypeSystem`NestedGrid`PackagePrivate`$outputID$$ = 
@@ -706,1171 +706,1175 @@ Cell[BoxData[
  CellLabel->
   "In[258]:=",ExpressionUUID->"0fcf27ad-170c-46e3-8477-d9bb24b8673f"],
 
-Cell[BoxData[{
- TagBox[
+Cell[BoxData[
+ RowBox[{
   TagBox[
-   DynamicModuleBox[{TypeSystem`NestedGrid`PackagePrivate`$state$$ = 
-    Association[
-    "InitialData" -> 
+   TagBox[
+    DynamicModuleBox[{TypeSystem`NestedGrid`PackagePrivate`$state$$ = 
      Association[
-      "Address" -> "34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo", "Balance" -> 
-       Quantity[250597.39185198, "Bitcoins"], "ValueInUSDollars" -> 
-       Quantity[6.5937043804164*^9, "USDollars"], "TotalTransactions" -> 844, 
-       "TransactionList" -> {
-         Association[
-         "TransactionID" -> 
-          "4e0b2a5618adcdb3ee3b38faeb4f82e66a51eebb3dcc8d9eea37334199368ec2", 
-          "BlockNumber" -> 804820, "Timestamp" -> 
-          DateObject[{2023, 8, 25, 18, 48, 50.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h"}, 
-             "Amount" -> Quantity[2.50789665, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"3QYPMhEeT2erABCCrsomFqRDd1t1Tr3iyG"}, "Amount" -> 
-             Quantity[0.00685, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h"}, 
-             "Amount" -> Quantity[0.50425909, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q7ewyhpe9jfq2r3w60qupjcdgxprtmvfxy3me38"}, 
-             "Amount" -> Quantity[0.00379332, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3MEpP1C85pQWiCakRLVcQZ1imCibtDhcn8"}, "Amount" -> 
-             Quantity[0.38295, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qy2hnnknm7ce6sje9vj68yruvsemsvz7s2g2ml4"}, 
-             "Amount" -> Quantity[0.00751279, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1HZbruyA21VsjRF443jMKjsE8RCPG7oUNh"}, "Amount" -> 
-             Quantity[0.000683, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3QrwD5P8raDpngBz3siZpW1uLFSpLbmM2S"}, "Amount" -> 
-             Quantity[0.00898498, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q8fm3mqeel2xh0t4c3wxpd2um6lqk7ftl7hhy2e"}, 
-             "Amount" -> Quantity[0.00019497, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3EvCuVsvsK2cZej8oZGDRaLhMHoqaThiyN"}, "Amount" -> 
-             Quantity[0.07275, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qys5d30um6xrtpd2m0fsk5gnaxl323ey0r623kk"}, 
-             "Amount" -> Quantity[0.00996497, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3MXwWxeqPPF79z4T9LAT5XBdvTqDNThtW5"}, "Amount" -> 
-             Quantity[0.00075325, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qey56ku83966zm633dqu4gvznnq3yn8nwa2wzj2"}, 
-             "Amount" -> Quantity[0.06207225, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3PFkq2dP8UqMPwvfMXZsUyk7juL8guVEFK"}, "Amount" -> 
-             Quantity[0.00051343, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qxul4urznds0szhgw2x5gg694jp0049eqnkyty8"}, 
-             "Amount" -> Quantity[0.03791575, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q2fsg8t5en757e3n78xv0lyq3qzhfllgjw5jhwk"}, 
-             "Amount" -> Quantity[0.01029922, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3M7drZAV7WhuMK8jhcrFgSMVXQLuezngtE"}, "Amount" -> 
-             Quantity[0.01220428, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qd2emv209q4jsceep6p8kv9pufzl2udptrzvus8"}, 
-             "Amount" -> Quantity[0.00847147, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.0006283, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"34Hxuepc3tjHEEQrQd3oSzrriXEGDSw3qj"}, "Amount" -> 
-             Quantity[0.00217908, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q67kettfqkwva0swj8w2qfu62hnk87334pv9epg"}, 
-             "Amount" -> Quantity[0.01735, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qv7n5q8f6nrfml7x3v6djyr4udc5j37hzxg3hxh"}, 
-             "Amount" -> Quantity[0.00388137, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q2x0e4f86mlwdxrkz47wx9cx2ne95ddw84jumnt"}, 
-             "Amount" -> Quantity[0.00187436, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q3jrvsshtxke4j79f8xer7wut63s54rt2q3stnw"}, 
-             "Amount" -> Quantity[0.00035962, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qzs4dhh0sr94yg3zzh2rv9k8r7r6wmgx3vlernk"}, 
-             "Amount" -> Quantity[0.05821939, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"181CkRkzSEBKrAbHpzJYF1HywiuXn6p6Rj"}, "Amount" -> 
-             Quantity[0.00155, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qqekf3l3d904kwqt0py4ur8unrfs4de82njgvzt"}, 
-             "Amount" -> Quantity[0.027790000000000002`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qwren6jq62h0a5cxxku5tx9qv788s4mgkk9c5zs"}, 
-             "Amount" -> Quantity[0.00005, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q6avj3x9jv8yrpm9h3cutaefxv3kph704mhr3nd"}, 
-             "Amount" -> Quantity[0.00054, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3M6r2nE6qCKegMQ8yE5zecAb5eGpyoicGn"}, "Amount" -> 
-             Quantity[0.0011070000000000001`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3Pr7q8QsNn6fo1D3vYs727tG3GpkXmGwNb"}, "Amount" -> 
-             Quantity[0.00117932, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qje6dx200lm4nakqz4ylhht7mpwzmk3fqqgufv4"}, 
-             "Amount" -> Quantity[0.1654843, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qf70tjt63q6hts4qnu7wp5l74kzjvcwr6d4ulna"}, 
-             "Amount" -> Quantity[0.00188348, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"32yMfc388xGz558ZXDnbZTow7SzinsJ1pZ"}, "Amount" -> 
-             Quantity[0.0005, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q9qc944pd505uqv46x9vmksuw3gh5hkn776dhlf"}, 
-             "Amount" -> Quantity[0.00195869, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qpkk4n2l6j0r97rnmn52u0x3akk4fy5awerlxp4"}, 
-             "Amount" -> Quantity[0.00401, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q0fwsc3k53xs4w5qw6xfs42zrz37q0t8pmknljx"}, 
-             "Amount" -> Quantity[0.0019500000000000001`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"15jtLe4pKfye4fVk9rKAkxfzEZkjjWD9GM"}, "Amount" -> 
-             Quantity[0.01345473, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qp8xjszn9kll2km273nyx2puzuvr4dg3kw0552h"}, 
-             "Amount" -> Quantity[0.021118, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q70u7k7cvaw2hy69rztu0sw08f9zyrfvsz3vnpl"}, 
-             "Amount" -> Quantity[0.00238828, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qg0f8fsx86c9hr3kpu78zcafp68y4j4zavyxu0x"}, 
-             "Amount" -> Quantity[0.0273711, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {
-              "bc1q6dgk2yfpzv4mgwnp7g3epvcm0xcq2wlsrr73wfsfrfjdwfqmpa2sts9fje"\
-}, "Amount" -> Quantity[0.0031, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qzx9gl66zejdpan5rgerxwjrtsuect3vms0fxdu"}, 
-             "Amount" -> Quantity[0.00245, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1GrDo5JLbnYVz7qwusMWPutaMw5ZQpKZaW"}, "Amount" -> 
-             Quantity[0.0018700000000000001`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"38pC8LbbdccxU8523XcuPEwhGCbRCbnYjT"}, "Amount" -> 
-             Quantity[0.00200182, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {
-              "bc1pr6ak7v74y7zwwj0pfkyamglw0rng6arajcjka2l4gmwz5upl409q0tvu2x"\
-}, "Amount" -> Quantity[0.00285, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3KF4gM8Zf6cDEkfi9wvUXLH3fG6ZnWRrr9"}, "Amount" -> 
-             Quantity[0.00361619, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q8fjecppmr2552q868y0uw0n7vu7dccnmphjgsx"}, 
-             "Amount" -> Quantity[0.0035699, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1JivB8YUXstmJXwv1VjuEbxagZJXETB9QA"}, "Amount" -> 
-             Quantity[1.00062895, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "38844c9f9449ad5fdadba7f96b38d58a67076e21f22b20a0e52d9060985b1568", 
-          "BlockNumber" -> 804806, "Timestamp" -> 
-          DateObject[{2023, 8, 25, 16, 55, 10.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {
-              "bc1pcyg709r5ujxw2pd0lf5aw63zw04e30ymjxt9xva354xh66u48ttq3t9dsn"\
-}, "Amount" -> Quantity[0.00006981, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.00003857, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qaq24t7rg3lqpfx7y4f7j05wl7h7h5pcp562gqf"}, 
-             "Amount" -> Quantity[0.0000154, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "ebaa6adb629fb166ba51d0adc5db5026574f772d0f595642a25b94a2cfa93841", 
-          "BlockNumber" -> 802584, "Timestamp" -> 
-          DateObject[{2023, 8, 11, 3, 51, 31.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1qjq2gahpvwxezcnskeffs5fck6wt06qgs0ne648"}, 
-             "Amount" -> Quantity[0.00037301, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.00033971, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "c731b554e0a1379fd1f66d2819f2811b6d00918c7e9a0bb46a4595053a0d5631", 
-          "BlockNumber" -> 802159, "Timestamp" -> 
-          DateObject[{2023, 8, 8, 1, 55, 15.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1q8axlmyvm7q5s9gxjxajpkfjeyaw8khf8sdfp87"}, 
-             "Amount" -> Quantity[5.46*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q8axlmyvm7q5s9gxjxajpkfjeyaw8khf8sdfp87"}, 
-             "Amount" -> Quantity[0.00306338, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[5.46*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q8axlmyvm7q5s9gxjxajpkfjeyaw8khf8sdfp87"}, 
-             "Amount" -> Quantity[0.00304017, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "220ae48a90abd31dce2acd15107902d0a00ec6deac10e73e204fc27873cb1353", 
-          "BlockNumber" -> 801993, "Timestamp" -> 
-          DateObject[{2023, 8, 6, 22, 50, 3.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1qp8thwf4aqxqmyhn4r5wq8dg5p8lea52rt2ns4y"}, 
-             "Amount" -> Quantity[5.46*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qp8thwf4aqxqmyhn4r5wq8dg5p8lea52rt2ns4y"}, 
-             "Amount" -> Quantity[0.00094992, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[5.46*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qp8thwf4aqxqmyhn4r5wq8dg5p8lea52rt2ns4y"}, 
-             "Amount" -> Quantity[0.0009267300000000001, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "b7dcb39234b42eb9040f92f63e30af4aa6536be1d78564f11331c953be673e29", 
-          "BlockNumber" -> 799978, "Timestamp" -> 
-          DateObject[{2023, 7, 24, 1, 38, 15.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"1Dqo5aRAVapSkr68ysMVp4TotZE5BQrKMU"}, "Amount" -> 
-             Quantity[0.0008778600000000001, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.00066492, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"19ud31RpVDZfQ8P8AErLRWRbGyXHA8THyu"}, "Amount" -> 
-             Quantity[0.0001547, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "d94d3be2b3ac910cc61a54fd761a8d44eed6da72418e0b25cb64fca457f3c1ec", 
-          "BlockNumber" -> 799484, "Timestamp" -> 
-          DateObject[{2023, 7, 20, 6, 55, 57.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1q5zu0ezepx9pwkqn64llcsgmeh7wk5hxffu3scs"}, 
-             "Amount" -> Quantity[0.0004, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"bc1qsgldat8v5a769klf49a3qhk8nma73x4fjx2a3a"}, 
-             "Amount" -> Quantity[0.00033656, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.00003824, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "ce2d51c3619d26fff0d1bd5bb126425823d7bd3e8f21d488ef2c46c8da3e9a59", 
-          "BlockNumber" -> 798020, "Timestamp" -> 
-          DateObject[{2023, 7, 10, 0, 11, 50.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1q8rsf53rf7ku98grqzqfdt5qyeh6d6rhhks4nlj"}, 
-             "Amount" -> Quantity[0.00007173, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q00ekrrg9s62pr2w7cl0s8p889l27mds2slqq27"}, 
-             "Amount" -> Quantity[0.0008240400000000001, "Bitcoins"]]}, 
-          "Outputs" -> {
-            Association[
-            "Addresses" -> {"bc1qjfkfjyjrtjsnhgp0uf3ww7z8z83k4yjg0wh46d"}, 
-             "Amount" -> Quantity[0.00081729, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.00006304, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "cb7101f5d098992123c80d1bf2a0386c7b5e49ca7852f951f6692e32f4bf94f4", 
-          "BlockNumber" -> 796989, "Timestamp" -> 
-          DateObject[{2023, 7, 3, 10, 31, 45.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"35eeLFLkGrJ5nyjc3rCJNaU4xxLPnCWpFx"}, "Amount" -> 
-             Quantity[0.0031668, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.000033430000000000003`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qt32p3v8k83awa7angqy0wx3fy9a7j70zp5n9qt"}, 
-             "Amount" -> Quantity[0.00309851, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "080f602f953a3975ed6ff01c5ca8d768c7077a249aae88be144f0ea6480575f7", 
-          "BlockNumber" -> 795036, "Timestamp" -> 
-          DateObject[{2023, 6, 19, 12, 9, 8.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1q0wknareddsgm580mehzywg8jfzpqcg3z9zet27"}, 
-             "Amount" -> Quantity[34.982645, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.0002, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qgwwk7wjmpakyl07yeasq26nrzaucsgl26fx4j9"}, 
-             "Amount" -> Quantity[34.982381000000004`, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "94edc0dce453edb9c7ea414e23e2b4c5f33d917c27da62aa844974698f1d4380", 
-          "BlockNumber" -> 794954, "Timestamp" -> 
-          DateObject[{2023, 6, 18, 23, 45, 49.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1qe6zeluz04e7anffurk4zuyxj0lggp3fjttyu33"}, 
-             "Amount" -> Quantity[4.979677, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.000101, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qwze45k42kqhcfultqwdguht32x2ze6vdvayatm"}, 
-             "Amount" -> Quantity[4.979509, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "728a63394ed9fb3514a41108598a251a2a08af35a4044ce0d19884702e8d6fab", 
-          "BlockNumber" -> 794753, "Timestamp" -> 
-          DateObject[{2023, 6, 17, 15, 7, 29.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"1BYFELzNc3ZgYr5AfdEWqz8vTCwh5wMaao"}, "Amount" -> 
-             Quantity[1.07509008, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.0027500000000000003`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1BYFELzNc3ZgYr5AfdEWqz8vTCwh5wMaao"}, "Amount" -> 
-             Quantity[1.07224758, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "013085f2aac0af393192c3007f7256df2dba4708de05e0a6c533846ae48058fe", 
-          "BlockNumber" -> 794562, "Timestamp" -> 
-          DateObject[{2023, 6, 16, 7, 26, 31.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1qkzr7w8v2dmahqwnpg2klj34fvraq8jfagag4tk"}, 
-             "Amount" -> Quantity[0.0014090300000000001`, "Bitcoins"]]}, 
-          "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.00003925, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qkzr7w8v2dmahqwnpg2klj34fvraq8jfagag4tk"}, 
-             "Amount" -> Quantity[0.0013172400000000001`, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "e162b72259fa83053a2351526676776fcecd90b9384c97cc5ecd8b95296966b6", 
-          "BlockNumber" -> 792952, "Timestamp" -> 
-          DateObject[{2023, 6, 5, 13, 2, 49.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {
-              "bc1ph9a65tyetapt02003jq043xft4dsgktd3xqhdqd9lmym422wwd6qjqdyky"\
-}, "Amount" -> Quantity[0.00008, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[5.46*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qa3cucfrcq7tjuyg4a2waj8uwcjpact8xfhfa3d"}, 
-             "Amount" -> Quantity[0.000023840000000000002`, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "b63decbc68362754ee54070b69831c39a1a0fd093de1bdcec8122a3d1cc23914", 
-          "BlockNumber" -> 792747, "Timestamp" -> 
-          DateObject[{2023, 6, 4, 4, 13, 11.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {
-              "bc1pk3cuh96neeqd6n6np6kh05vewj928h344d7c8nml985g2du4cuws99j95x"\
-}, "Amount" -> Quantity[0.00008, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[5.46*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qga9u3h3w8aufc4ncckq745pze38jeu6n79frnf"}, 
-             "Amount" -> Quantity[0.00002029, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "3e0bf68729b56b34f89a6e193b8a617dcb3781eae789497157acfe0b4678d12a", 
-          "BlockNumber" -> 791375, "Timestamp" -> 
-          DateObject[{2023, 5, 25, 21, 11, 8.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1qmwgp8rws648y9sgf9mh8x52xjqe50chywh4sdc"}, 
-             "Amount" -> Quantity[0.01441529, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[6.66*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qyjftk7j84yegdg5jy4zpgj5pl50j7mpzjd8gy4"}, 
-             "Amount" -> Quantity[0.014320590000000001`, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "7d0aeb84588c097896de63c2548b34b66fc10834f4655280de392f12236323ae", 
-          "BlockNumber" -> 789670, "Timestamp" -> 
-          DateObject[{2023, 5, 14, 11, 50, 32.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1qxq2wwhgqmsuh09kf40060g0f0rtudnzd9zn6f4"}, 
-             "Amount" -> Quantity[5.46*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qxq2wwhgqmsuh09kf40060g0f0rtudnzd9zn6f4"}, 
-             "Amount" -> Quantity[0.0001409, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[5.46*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qxq2wwhgqmsuh09kf40060g0f0rtudnzd9zn6f4"}, 
-             "Amount" -> Quantity[0.00009032, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "7dbf7b15405e24a57a3d819c14658796a7d67becf56ed71878a6c58f95047b7d", 
-          "BlockNumber" -> 789472, "Timestamp" -> 
-          DateObject[{2023, 5, 13, 3, 48, 26.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"33c4AtHdC3vfr2kT7gYzcUNLCwx4QNnNrE"}, "Amount" -> 
-             Quantity[0.00471, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.00005, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3P6aj3GN8oGk36ozriX7DbX27upuMQ7Cx6"}, "Amount" -> 
-             Quantity[0.0043363, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "2a6d427b806c1ade657141df36c1108617a62f9c3c4cfaee77629da7f7639569", 
-          "BlockNumber" -> 789215, "Timestamp" -> 
-          DateObject[{2023, 5, 11, 9, 32, 35.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {"bc1qztk58cetmhq0cg67r393rytzl9hvqyh359a83n"}, 
-             "Amount" -> Quantity[1.91357197, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"16gaC2PDrnHettxRSpWokPNnjmCcgyaKr9"}, "Amount" -> 
-             Quantity[0.00108904, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3FLiQxQ6S4ZiMnaZ6j4V6FLfjc2z17DY1h"}, "Amount" -> 
-             Quantity[0.0016175, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1Fqbqi3SLmUK4rE4umZiigrCJg6xA4nEkj"}, "Amount" -> 
-             Quantity[0.00382805, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3G7QKh4Tu4RewBBFUwnBvN5yddjBVe5eU4"}, "Amount" -> 
-             Quantity[0.00165316, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3HQaeFRMP6tNANnrtUprSn7b9nGv3qwFJR"}, "Amount" -> 
-             Quantity[0.00342961, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"33fhD2iAjuEbf5mjvnPU4QmP8897avdfMb"}, "Amount" -> 
-             Quantity[0.0037945500000000003`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3L8L75SqVwuB5VrPjF5FEKMETCWUtstoep"}, "Amount" -> 
-             Quantity[0.00030956, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qcsll4u8jc6zzyyke6muee8nyc6zqgm3jglp49k"}, 
-             "Amount" -> Quantity[0.03554535, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1J519rt4zpLKfE68euqvSJjhusw7Hm4q8X"}, "Amount" -> 
-             Quantity[0.0012705400000000001`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3CwJ7PYdBngcnU3HFeEgUZKWwi4v57Voza"}, "Amount" -> 
-             Quantity[0.00023363, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1CzGW4ZyQSAreUNgZ2bPa1TwUHN2UGjjNn"}, "Amount" -> 
-             Quantity[0.00183011, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"39Aeq3F3woEJLGEkjsxdrQCm1jfmCcNoYM"}, "Amount" -> 
-             Quantity[0.0010892, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1BDTBnViWkEvMybCG9HHQofLZ9qV6jQqnb"}, "Amount" -> 
-             Quantity[0.02066723, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1FxrozxJFzHd2Cn6eA9KS2Jscpq196FEvD"}, "Amount" -> 
-             Quantity[0.00066325, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"39SXeNN4N9pQ3yF49hhrXnGHpowV9xty2Z"}, "Amount" -> 
-             Quantity[0.0068973, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3MVkRzBsJSKuy8GR6YdZRyjT6FBqKZ8uTy"}, "Amount" -> 
-             Quantity[0.0018513800000000001`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"33V7UQz7gDr1Mik5DgKKjNUni7czWjmD52"}, "Amount" -> 
-             Quantity[0.0005883700000000001, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1FQVS8DUBCaH1uekSA2fBczREH84RRupvf"}, "Amount" -> 
-             Quantity[0.00050061, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3HBysJV79phkbuWTNGwYqK965VADf6sisC"}, "Amount" -> 
-             Quantity[0.00342779, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[0.0000726, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1KRVyVB49kT5J6jL2hPkmGtnadDCBD6HL5"}, "Amount" -> 
-             Quantity[0.0016086, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3DfVebaePsZU9TNzM7UFgRKPYQwV9SP6oM"}, "Amount" -> 
-             Quantity[0.00072606, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3QkZytEGeXWXVPSurkbCvLbEcNrwqRHB7G"}, "Amount" -> 
-             Quantity[0.0011205100000000001`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"36Pp2T5968jRGzpALDhHsrU5vf7HZs3JPM"}, "Amount" -> 
-             Quantity[0.00041082, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"32QAj5G4w6FHeNMfE3ZeCeXB74hNUmuFDk"}, "Amount" -> 
-             Quantity[0.00078721, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"14UqHNoPZwQyFRWMc2hLmbj32bXzQ9wQUb"}, "Amount" -> 
-             Quantity[0.04636336, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1GuXy6h1FkkvKwLKzrbsLtwWjmrmH5c3pN"}, "Amount" -> 
-             Quantity[0.00147551, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3CKZDL9uHmjjMD1afN4NWGBdN6MCtyoipz"}, "Amount" -> 
-             Quantity[0.00060165, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"36sP6UfbBZsCkC4ysjUuxwayF1v3wXeVQL"}, "Amount" -> 
-             Quantity[0.0016176300000000001`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1BucHBXZX1ixTrNKaQAf9Bga7HstRPNjEX"}, "Amount" -> 
-             Quantity[0.00754741, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"38Dsmkwbsdx9cpUBKVsxhYEEbRRyTWGMd7"}, "Amount" -> 
-             Quantity[0.00417507, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"36kRGriDxWNSsU1BCv21tr1xzbnJbw5zty"}, "Amount" -> 
-             Quantity[0.00076592, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"34eyFAQGqzDy4pwsTAhmPjBn712XigKB8s"}, "Amount" -> 
-             Quantity[0.00073027, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"32C485xXQzdnP9XvneKyZKvRMZUZXEFMGo"}, "Amount" -> 
-             Quantity[0.00036307, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"33jjR5sLYNs6iYaDdcpv5sRhPvv5yfiGsB"}, "Amount" -> 
-             Quantity[0.00603316, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {
-              "bc1qtx6llrtmjarlu2rcwqceg7u4y8r0vp7m06y72c6x0akqzswsytwqhxulw2"\
-}, "Amount" -> Quantity[0.00544646, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3BCchADa7jwo8xY7iRDXJzzubCuGRtbKgv"}, "Amount" -> 
-             Quantity[0.00165554, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"14e44RMw7oRPo4ypwuuwUxXRFbofNYcv2Q"}, "Amount" -> 
-             Quantity[0.00034250000000000003`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"33yMh1XY2ob7XpY5KSiDpiKSYfDWyN2opg"}, "Amount" -> 
-             Quantity[0.00097486, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qj2g538pk4wyzl626lz0kxutvudffhx706ypchn"}, 
-             "Amount" -> Quantity[0.00023362, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3HzzLcyb6H7X8VaBmCrrobnEUXzEohLdQ9"}, "Amount" -> 
-             Quantity[0.00085002, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"34aJHuoWSdvciYa7wSKHP9FgiAGkctmhnG"}, "Amount" -> 
-             Quantity[0.00090753, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {
-              "bc1qgptet64vnj268fqakurhe4mxxk9xxme8x94ddp75sqal0n7244nq9pu6l2"\
-}, "Amount" -> Quantity[0.0018328, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"36HLsyJggouyK7vB8DeGWuNNf87q2KrDLS"}, "Amount" -> 
-             Quantity[0.0011207300000000001`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1EXatgmAkRf4o4HpFTKc2iZ38e8agYbqix"}, "Amount" -> 
-             Quantity[0.00112297, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1AFG7RBXAk9Eg2MhWmJvxBViZsMYjPtsR2"}, "Amount" -> 
-             Quantity[0.00372333, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3LypaNwZ2EsGeCv5PyhcsUcbzjYiYWhzP1"}, "Amount" -> 
-             Quantity[0.00130054, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"136b8VfTSkADHg7pLoJWjmd2LzBopZyGuD"}, "Amount" -> 
-             Quantity[0.03920788, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qz5lsgsf29cthdlj5jzj054lg92trjd07xqk6g7"}, 
-             "Amount" -> Quantity[0.00083663, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"35xhzBNTKSWT8jnWWqMqDtXgXtMLbrK19Z"}, "Amount" -> 
-             Quantity[0.00059082, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qnrxa4j20lwe89rdjr4umzmz9kdve4scc6t0flm"}, 
-             "Amount" -> Quantity[0.03539889, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"34LJDvvoAeXbrHjd5CxWVhrmaaATXCsuRj"}, "Amount" -> 
-             Quantity[0.00342719, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qk7kdjd6a9vn4nsemcffq2eds7lhy5na83dg8da"}, 
-             "Amount" -> Quantity[0.0024322700000000003`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3NUiAv2Jp4tdkZoidJMq6z37VebHsaaATU"}, "Amount" -> 
-             Quantity[0.00299766, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qq9h5rsyehzjusrmpgzrwkedt27h8p3cnjs65nc"}, 
-             "Amount" -> Quantity[0.0054465, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3FfaLHq4u4eSMzm2tYCikqtCHnm8LKJEdi"}, "Amount" -> 
-             Quantity[0.0254122, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3GjVeuhxk6tnDv9B6qs7X1RnEKBorh3PKd"}, "Amount" -> 
-             Quantity[0.00017775, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"17bBzxunLqyALyP9NASMi4qhByNiLYQpLT"}, "Amount" -> 
-             Quantity[0.00165324, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"17X5PznZpsxRsyXn7bNcf8BZnNEN6PMhcA"}, "Amount" -> 
-             Quantity[0.00129808, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3FNLuFLdrBFiJ9Zx1AtK2vV9ZqMMK6gqZJ"}, "Amount" -> 
-             Quantity[0.00036308, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3H1oe4U8BPs8x1tCTGtB94KDpEDpk7JT8Z"}, "Amount" -> 
-             Quantity[0.00136919, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1Hu6XzMBHcLqzGsSSuVDZ3HWuE7CL5Ao8k"}, "Amount" -> 
-             Quantity[0.00165548, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qs6nj8m27mcl9fj8lawvwnrtplnhs6dqztvalzs"}, 
-             "Amount" -> Quantity[0.0034321, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3PuQ7U36FwUE36gM3dBY8yAoj7EocVFaxN"}, "Amount" -> 
-             Quantity[0.00041329, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q240agl5ftxh7u8sr2pf0an6v00yh04sc8rs5v0"}, 
-             "Amount" -> Quantity[0.00342706, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3Qceyq1YVmGJRctBwMGUUJR4m4PVibz1et"}, "Amount" -> 
-             Quantity[0.00773727, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3ALG5Z7FMPprDZexPHYSWaBNELw46NmAXN"}, "Amount" -> 
-             Quantity[0.00104977, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3Fpje2tZ8zkhVHi5dqe2kYKZgfoih5d3HB"}, "Amount" -> 
-             Quantity[0.00059079, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3GKNJEid56vFQM7ZRyNvrKymjum4haoXAW"}, "Amount" -> 
-             Quantity[0.0055723100000000005`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1Ko5VjjcXCAuVxn3vcVfdDijPgbNFm3ngX"}, "Amount" -> 
-             Quantity[0.0007683, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1DuCgSC7g8LtkbFmCECXnKpeysuDNfS7qA"}, "Amount" -> 
-             Quantity[0.00199707, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"36e98cfGohw1oQB7sCUnG8ojibxJzXaMZB"}, "Amount" -> 
-             Quantity[0.00065127, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"331h2gp29FEJqbWmcfgqXBqJNM8h78g9Sf"}, "Amount" -> 
-             Quantity[0.00181511, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1N1Uqr8Cv15XNCPsjJ2z99KSEXUWQSMMz4"}, "Amount" -> 
-             Quantity[0.00189531, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1FZSg41ihNNU5ZpeUXd3UfPyds4T5aa8yG"}, "Amount" -> 
-             Quantity[0.00072659, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qyv3jxv7qykuksh6xkzefq5g7f7fh9xdanlfg0h"}, 
-             "Amount" -> Quantity[0.00165296, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qus7duzs3v8l6wa4ph55ftpwrnkgjngsc8ct3cj"}, 
-             "Amount" -> Quantity[0.00145253, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3M1B3v72ybYLa5YoQJZzWsHmitNTFdDkQ7"}, "Amount" -> 
-             Quantity[0.00181506, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q9x5z3qwq7tevqnwqmly5wu2dynkrvhgs9pv9cp"}, 
-             "Amount" -> Quantity[0.00090752, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"36p4BjnR92qggupwi2KwPDiBaXH1iUCt3b"}, "Amount" -> 
-             Quantity[0.0016555, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"19JfGpK1u4tDZAPGYt4KSgSjCiNNijR7vQ"}, "Amount" -> 
-             Quantity[0.00165595, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qgak8txx9dgpzhynwx5r4jn02c5lg3fweeslysj"}, 
-             "Amount" -> Quantity[0.00005466, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qcdmj6n5rhv4au9zr7ny3qkt624p7x6jvz48nv5"}, 
-             "Amount" -> Quantity[0.00254015, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"33y3q7Ga9DuE4UfX8e4LCWQG4dGoyst7En"}, "Amount" -> 
-             Quantity[0.00257579, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3J9Z8EHqNF9s5rrVhxQvTJJFueHR6ASkCq"}, "Amount" -> 
-             Quantity[0.00044887000000000003`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3L6xPRVVReXxCVUP42zwGRx894Tbp6e8JW"}, "Amount" -> 
-             Quantity[0.00014521, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3LYSphyEEqAjnFXmEaTSuF1JchLKqjDYnw"}, "Amount" -> 
-             Quantity[0.0007683, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3MsJXV2uePPUrrxMWTuPTJMEuwghKMHCqc"}, "Amount" -> 
-             Quantity[0.00130047, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qvxkmtwvykapmg4tfr8j6pm8qz8zlgl05pup5z5"}, 
-             "Amount" -> Quantity[0.00041987000000000003`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"346pi1hSHG75DeukwzQQ9CQt9ziSoFmPwS"}, "Amount" -> 
-             Quantity[0.00094306, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"37eHxCaCzJ5GwkabUeLGeNrC8g1JnLLPR2"}, "Amount" -> 
-             Quantity[0.00076597, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"15eZR2ZCruu8jTS1qAuN6DSg5YtQTmLyxY"}, "Amount" -> 
-             Quantity[0.0009747, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qug3njz0alnn96prtv4jvjw2m0fjkpjdcfm53xq"}, 
-             "Amount" -> Quantity[0.00186579, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"37GztUFFUVrrfDGW8YpBw9WHFSFtNcRdAC"}, "Amount" -> 
-             Quantity[0.0016534, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qefm524srpd26pv4xjdqdnthlahat3zegjruejy"}, 
-             "Amount" -> Quantity[1.4631116, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3DvpDuxAmFAdtMXjf6opTcTHnydSh2x3tx"}, "Amount" -> 
-             Quantity[0.00076585, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3GLhreTHHN8jPuRcceBffsMxyeEGWgm4SG"}, "Amount" -> 
-             Quantity[0.0007658, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3M2XJ27QNKC8E3H2pxJbHXRVzFPJxaGCGL"}, "Amount" -> 
-             Quantity[0.00528543, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1GtrBD4u2BQP2nFfcUkQQme8w2AaAxPnpn"}, "Amount" -> 
-             Quantity[0.00076832, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"15eFicXmi4kcoixSud74rk7xGm65pYWeG2"}, "Amount" -> 
-             Quantity[0.00879518, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1PDyi9AQnbS4byJ8spsmsao259AbJQcxb"}, "Amount" -> 
-             Quantity[0.00108908, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"39L5fhPzVwWDFJc5mEE9ToUHSJbg377e4Z"}, "Amount" -> 
-             Quantity[0.00137951, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3JdXFYL9TfvCJLt2EwFXgKh3r3Fn39QzzB"}, "Amount" -> 
-             Quantity[0.0034273800000000003`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1BfH3ZgT9NCwjAjLa2rreWQRoA7RhVrDiW"}, "Amount" -> 
-             Quantity[0.0011602000000000001`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3MeTWaqgA491NHKq29PEigHQZ4n9mMiQrg"}, "Amount" -> 
-             Quantity[0.0008722000000000001, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qn6cm96t6ma9e5zqcnxzv6vfedaf7lhmay7m2qm"}, 
-             "Amount" -> Quantity[0.0006081, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1GfMYzjAFZTvH9cjALTs43dQ41VReBhk5s"}, "Amount" -> 
-             Quantity[0.00105224, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1LYC3rnQJcRyVvRwN2sFzD1wHhgFZTdH4o"}, "Amount" -> 
-             Quantity[0.00987389, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3KYTjUZJiF4Wkjes1SCz4jnujQiHo8MivE"}, "Amount" -> 
-             Quantity[0.00076584, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"1KzVXev5n7PUqRD9TdwFhK1GAoYGAeC87g"}, "Amount" -> 
-             Quantity[0.036528200000000004`, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qcnrk7dpmcfdewl9xh7056vsdh73wdnvmvj77x8"}, 
-             "Amount" -> Quantity[0.00342953, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1qqfxsed3d6yh7jrj4kkq8swermafkwc8qkvwmqu"}, 
-             "Amount" -> Quantity[0.0005908, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3D6qRaBqhkZQPr8refcG17mh3o7LzosgWs"}, "Amount" -> 
-             Quantity[0.0007260400000000001, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3C8BkfsdpYZPX9JX4gbYokmGkZsBRZJBJz"}, "Amount" -> 
-             Quantity[0.00076595, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"18oWWrhM8gNoee74sUKedSXgBRoriMkpjm"}, "Amount" -> 
-             Quantity[0.00108925, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3GpEbaQmPH6ApPLXvnkcQDhqivX8SBkgx9"}, "Amount" -> 
-             Quantity[0.00205486, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3PvpnCx5CgStWzPR99RuTWyQ6w19cbJ8j3"}, "Amount" -> 
-             Quantity[0.00199657, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3M5yTCKBPYpF3mFJXkQ4AjV8zGxaw6FJsr"}, "Amount" -> 
-             Quantity[0.00059075, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"3LXxVNaCHE9wCV4YPgs5xciShi7q3wVgEP"}, "Amount" -> 
-             Quantity[0.0013005, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"37NMQS2Hm93ruf8BfUEYRuyYN7cPwPfGrV"}, "Amount" -> 
-             Quantity[0.00065906, "Bitcoins"]]}], 
-         Association[
-         "TransactionID" -> 
-          "51b1db68c8557dbcb51d042ecc45a859b85e6af2658cfda5e005e2137a5a7020", 
-          "BlockNumber" -> 786662, "Timestamp" -> 
-          DateObject[{2023, 4, 23, 11, 28, 33.}, "Instant", "Gregorian", 2.], 
-          "Inputs" -> {
-            Association[
-            "Addresses" -> {
-              "bc1p6ejhjh0t2dfe3d83wf4ngnz7xlgk8hrc7e086x9qgr7qwt33ttuq2ydzd4"\
-}, "Amount" -> Quantity[0.00003, "Bitcoins"]]}, "Outputs" -> {
-            Association[
-            "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
-             Quantity[5.46*^-6, "Bitcoins"]], 
-            Association[
-            "Addresses" -> {"bc1q0ahgrjlexsmj3j22xqasl3qae5p8wf93cj5rmu"}, 
-             "Amount" -> Quantity[0.0000159, "Bitcoins"]]}]}], 
-     "AllowEmbedding" -> True, "InitialShape" -> 
-     TypeSystem`PackageScope`DocumentShape[
-       Association[{"Address"} -> 
-        TypeSystem`PackageScope`AtomShape[380.8], {"Balance"} -> 
-        TypeSystem`PackageScope`AtomShape[75], {"ValueInUSDollars"} -> 
-        TypeSystem`PackageScope`AtomShape[75], {"TotalTransactions"} -> 
-        TypeSystem`PackageScope`AtomShape[34], {"TransactionList"} -> 
-        TypeSystem`PackageScope`ElidedShape[1]], 1], "InitialType" -> 
-     TypeSystem`Struct[{
-       "Address", "Balance", "ValueInUSDollars", "TotalTransactions", 
-        "TransactionList"}, {
-        TypeSystem`Atom[String], 
-        TypeSystem`Atom[
-         Quantity[1, "Bitcoins"]], 
-        TypeSystem`Atom[
-         Quantity[1, "USDollars"]], 
-        TypeSystem`Atom[Integer], 
-        TypeSystem`Vector[
-         TypeSystem`Struct[{
-          "TransactionID", "BlockNumber", "Timestamp", "Inputs", "Outputs"}, {
-           TypeSystem`Atom[String], 
-           TypeSystem`Atom[Integer], 
-           TypeSystem`Atom[DateObject], 
-           TypeSystem`Vector[
-            TypeSystem`Struct[{"Addresses", "Amount"}, {
-              TypeSystem`Vector[
-               TypeSystem`Atom[String], 1], 
-              TypeSystem`Atom[
-               Quantity[1, "Bitcoins"]]}], TypeSystem`AnyLength], 
-           TypeSystem`Vector[
-            TypeSystem`Struct[{"Addresses", "Amount"}, {
-              TypeSystem`Vector[
-               TypeSystem`Atom[String], 1], 
-              TypeSystem`Atom[
-               Quantity[1, "Bitcoins"]]}], TypeSystem`AnyLength]}], 20]}], 
-     "Meta" -> Association[], "RowTarget" -> 20, "ColumnTarget" -> 10, 
-     "Shape" -> TypeSystem`PackageScope`DocumentShape[
-       Association[{"Address"} -> 
-        TypeSystem`PackageScope`AtomShape[380.8], {"Balance"} -> 
-        TypeSystem`PackageScope`AtomShape[75], {"ValueInUSDollars"} -> 
-        TypeSystem`PackageScope`AtomShape[75], {"TotalTransactions"} -> 
-        TypeSystem`PackageScope`AtomShape[34], {"TransactionList"} -> 
-        TypeSystem`PackageScope`ElidedShape[1]], 1], "Type" -> 
-     TypeSystem`Struct[{
-       "Address", "Balance", "ValueInUSDollars", "TotalTransactions", 
-        "TransactionList"}, {
-        TypeSystem`Atom[String], 
-        TypeSystem`Atom[
-         Quantity[1, "Bitcoins"]], 
-        TypeSystem`Atom[
-         Quantity[1, "USDollars"]], 
-        TypeSystem`Atom[Integer], 
-        TypeSystem`Vector[
-         TypeSystem`Struct[{
-          "TransactionID", "BlockNumber", "Timestamp", "Inputs", "Outputs"}, {
-           TypeSystem`Atom[String], 
-           TypeSystem`Atom[Integer], 
-           TypeSystem`Atom[DateObject], 
-           TypeSystem`Vector[
-            TypeSystem`Struct[{"Addresses", "Amount"}, {
-              TypeSystem`Vector[
-               TypeSystem`Atom[String], 1], 
-              TypeSystem`Atom[
-               Quantity[1, "Bitcoins"]]}], TypeSystem`AnyLength], 
-           TypeSystem`Vector[
-            TypeSystem`Struct[{"Addresses", "Amount"}, {
-              TypeSystem`Vector[
-               TypeSystem`Atom[String], 1], 
-              TypeSystem`Atom[
-               Quantity[1, "Bitcoins"]]}], TypeSystem`AnyLength]}], 20]}], 
-     "Path" -> {}, "DisplayedRowCount" -> 20, "DisplayedColumnCount" -> 10, 
-     "DataRowCount" -> 5, "DataColumnCount" -> 1, "SortPaths" -> {}, 
-     "SortDirections" -> {}, "HiddenItemsMap" -> Null, "UpdateType" -> 1], 
-    TypeSystem`NestedGrid`PackagePrivate`$outputID$$, 
-    TypeSystem`NestedGrid`PackagePrivate`$path$$ = {}, 
-    TypeSystem`NestedGrid`PackagePrivate`$vPos$$ = 1, 
-    TypeSystem`NestedGrid`PackagePrivate`$hPos$$ = 1, 
-    TypeSystem`NestedGrid`PackagePrivate`$grid$$ = 
-    DynamicModule[{TypeSystem`NestedGrid`PackagePrivate`renderedGrid = Deploy[
-        Style[
-         Grid[{{
-            Item[
-             Pane[
-              Annotation[
-               EventHandler[
-                MouseAppearance[
-                 Mouseover["Address", 
-                  Style[
-                  "Address", FontColor -> 
-                   RGBColor[
+     "InitialData" -> 
+      Association[
+       "Address" -> "34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo", "Balance" -> 
+        Quantity[250597.39185198, "Bitcoins"], "ValueInUSDollars" -> 
+        Quantity[6.5937043804164*^9, "USDollars"], "TotalTransactions" -> 844,
+         "TransactionList" -> {
+          Association[
+          "TransactionID" -> 
+           "4e0b2a5618adcdb3ee3b38faeb4f82e66a51eebb3dcc8d9eea37334199368ec2",
+            "BlockNumber" -> 804820, "Timestamp" -> 
+           DateObject[{2023, 8, 25, 18, 48, 50.}, "Instant", "Gregorian", 2.],
+            "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h"}, 
+              "Amount" -> Quantity[2.50789665, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"3QYPMhEeT2erABCCrsomFqRDd1t1Tr3iyG"}, "Amount" -> 
+              Quantity[0.00685, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h"}, 
+              "Amount" -> Quantity[0.50425909, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q7ewyhpe9jfq2r3w60qupjcdgxprtmvfxy3me38"}, 
+              "Amount" -> Quantity[0.00379332, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3MEpP1C85pQWiCakRLVcQZ1imCibtDhcn8"}, "Amount" -> 
+              Quantity[0.38295, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qy2hnnknm7ce6sje9vj68yruvsemsvz7s2g2ml4"}, 
+              "Amount" -> Quantity[0.00751279, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1HZbruyA21VsjRF443jMKjsE8RCPG7oUNh"}, "Amount" -> 
+              Quantity[0.000683, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3QrwD5P8raDpngBz3siZpW1uLFSpLbmM2S"}, "Amount" -> 
+              Quantity[0.00898498, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q8fm3mqeel2xh0t4c3wxpd2um6lqk7ftl7hhy2e"}, 
+              "Amount" -> Quantity[0.00019497, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3EvCuVsvsK2cZej8oZGDRaLhMHoqaThiyN"}, "Amount" -> 
+              Quantity[0.07275, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qys5d30um6xrtpd2m0fsk5gnaxl323ey0r623kk"}, 
+              "Amount" -> Quantity[0.00996497, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3MXwWxeqPPF79z4T9LAT5XBdvTqDNThtW5"}, "Amount" -> 
+              Quantity[0.00075325, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qey56ku83966zm633dqu4gvznnq3yn8nwa2wzj2"}, 
+              "Amount" -> Quantity[0.06207225, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3PFkq2dP8UqMPwvfMXZsUyk7juL8guVEFK"}, "Amount" -> 
+              Quantity[0.00051343, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qxul4urznds0szhgw2x5gg694jp0049eqnkyty8"}, 
+              "Amount" -> Quantity[0.03791575, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q2fsg8t5en757e3n78xv0lyq3qzhfllgjw5jhwk"}, 
+              "Amount" -> Quantity[0.01029922, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3M7drZAV7WhuMK8jhcrFgSMVXQLuezngtE"}, "Amount" -> 
+              Quantity[0.01220428, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qd2emv209q4jsceep6p8kv9pufzl2udptrzvus8"}, 
+              "Amount" -> Quantity[0.00847147, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.0006283, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"34Hxuepc3tjHEEQrQd3oSzrriXEGDSw3qj"}, "Amount" -> 
+              Quantity[0.00217908, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q67kettfqkwva0swj8w2qfu62hnk87334pv9epg"}, 
+              "Amount" -> Quantity[0.01735, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qv7n5q8f6nrfml7x3v6djyr4udc5j37hzxg3hxh"}, 
+              "Amount" -> Quantity[0.00388137, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q2x0e4f86mlwdxrkz47wx9cx2ne95ddw84jumnt"}, 
+              "Amount" -> Quantity[0.00187436, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q3jrvsshtxke4j79f8xer7wut63s54rt2q3stnw"}, 
+              "Amount" -> Quantity[0.00035962, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qzs4dhh0sr94yg3zzh2rv9k8r7r6wmgx3vlernk"}, 
+              "Amount" -> Quantity[0.05821939, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"181CkRkzSEBKrAbHpzJYF1HywiuXn6p6Rj"}, "Amount" -> 
+              Quantity[0.00155, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qqekf3l3d904kwqt0py4ur8unrfs4de82njgvzt"}, 
+              "Amount" -> Quantity[0.027790000000000002`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qwren6jq62h0a5cxxku5tx9qv788s4mgkk9c5zs"}, 
+              "Amount" -> Quantity[0.00005, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q6avj3x9jv8yrpm9h3cutaefxv3kph704mhr3nd"}, 
+              "Amount" -> Quantity[0.00054, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3M6r2nE6qCKegMQ8yE5zecAb5eGpyoicGn"}, "Amount" -> 
+              Quantity[0.0011070000000000001`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3Pr7q8QsNn6fo1D3vYs727tG3GpkXmGwNb"}, "Amount" -> 
+              Quantity[0.00117932, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qje6dx200lm4nakqz4ylhht7mpwzmk3fqqgufv4"}, 
+              "Amount" -> Quantity[0.1654843, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qf70tjt63q6hts4qnu7wp5l74kzjvcwr6d4ulna"}, 
+              "Amount" -> Quantity[0.00188348, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"32yMfc388xGz558ZXDnbZTow7SzinsJ1pZ"}, "Amount" -> 
+              Quantity[0.0005, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q9qc944pd505uqv46x9vmksuw3gh5hkn776dhlf"}, 
+              "Amount" -> Quantity[0.00195869, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qpkk4n2l6j0r97rnmn52u0x3akk4fy5awerlxp4"}, 
+              "Amount" -> Quantity[0.00401, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q0fwsc3k53xs4w5qw6xfs42zrz37q0t8pmknljx"}, 
+              "Amount" -> Quantity[0.0019500000000000001`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"15jtLe4pKfye4fVk9rKAkxfzEZkjjWD9GM"}, "Amount" -> 
+              Quantity[0.01345473, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qp8xjszn9kll2km273nyx2puzuvr4dg3kw0552h"}, 
+              "Amount" -> Quantity[0.021118, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q70u7k7cvaw2hy69rztu0sw08f9zyrfvsz3vnpl"}, 
+              "Amount" -> Quantity[0.00238828, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qg0f8fsx86c9hr3kpu78zcafp68y4j4zavyxu0x"}, 
+              "Amount" -> Quantity[0.0273711, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {
+               "bc1q6dgk2yfpzv4mgwnp7g3epvcm0xcq2wlsrr73wfsfrfjdwfqmpa2sts9fje\
+"}, "Amount" -> Quantity[0.0031, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qzx9gl66zejdpan5rgerxwjrtsuect3vms0fxdu"}, 
+              "Amount" -> Quantity[0.00245, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1GrDo5JLbnYVz7qwusMWPutaMw5ZQpKZaW"}, "Amount" -> 
+              Quantity[0.0018700000000000001`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"38pC8LbbdccxU8523XcuPEwhGCbRCbnYjT"}, "Amount" -> 
+              Quantity[0.00200182, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {
+               "bc1pr6ak7v74y7zwwj0pfkyamglw0rng6arajcjka2l4gmwz5upl409q0tvu2x\
+"}, "Amount" -> Quantity[0.00285, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3KF4gM8Zf6cDEkfi9wvUXLH3fG6ZnWRrr9"}, "Amount" -> 
+              Quantity[0.00361619, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q8fjecppmr2552q868y0uw0n7vu7dccnmphjgsx"}, 
+              "Amount" -> Quantity[0.0035699, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1JivB8YUXstmJXwv1VjuEbxagZJXETB9QA"}, "Amount" -> 
+              Quantity[1.00062895, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "38844c9f9449ad5fdadba7f96b38d58a67076e21f22b20a0e52d9060985b1568",
+            "BlockNumber" -> 804806, "Timestamp" -> 
+           DateObject[{2023, 8, 25, 16, 55, 10.}, "Instant", "Gregorian", 2.],
+            "Inputs" -> {
+             Association[
+             "Addresses" -> {
+               "bc1pcyg709r5ujxw2pd0lf5aw63zw04e30ymjxt9xva354xh66u48ttq3t9dsn\
+"}, "Amount" -> Quantity[0.00006981, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.00003857, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qaq24t7rg3lqpfx7y4f7j05wl7h7h5pcp562gqf"}, 
+              "Amount" -> Quantity[0.0000154, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "ebaa6adb629fb166ba51d0adc5db5026574f772d0f595642a25b94a2cfa93841",
+            "BlockNumber" -> 802584, "Timestamp" -> 
+           DateObject[{2023, 8, 11, 3, 51, 31.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1qjq2gahpvwxezcnskeffs5fck6wt06qgs0ne648"}, 
+              "Amount" -> Quantity[0.00037301, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.00033971, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "c731b554e0a1379fd1f66d2819f2811b6d00918c7e9a0bb46a4595053a0d5631",
+            "BlockNumber" -> 802159, "Timestamp" -> 
+           DateObject[{2023, 8, 8, 1, 55, 15.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1q8axlmyvm7q5s9gxjxajpkfjeyaw8khf8sdfp87"}, 
+              "Amount" -> Quantity[5.46*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q8axlmyvm7q5s9gxjxajpkfjeyaw8khf8sdfp87"}, 
+              "Amount" -> Quantity[0.00306338, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[5.46*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q8axlmyvm7q5s9gxjxajpkfjeyaw8khf8sdfp87"}, 
+              "Amount" -> Quantity[0.00304017, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "220ae48a90abd31dce2acd15107902d0a00ec6deac10e73e204fc27873cb1353",
+            "BlockNumber" -> 801993, "Timestamp" -> 
+           DateObject[{2023, 8, 6, 22, 50, 3.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1qp8thwf4aqxqmyhn4r5wq8dg5p8lea52rt2ns4y"}, 
+              "Amount" -> Quantity[5.46*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qp8thwf4aqxqmyhn4r5wq8dg5p8lea52rt2ns4y"}, 
+              "Amount" -> Quantity[0.00094992, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[5.46*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qp8thwf4aqxqmyhn4r5wq8dg5p8lea52rt2ns4y"}, 
+              "Amount" -> Quantity[0.0009267300000000001, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "b7dcb39234b42eb9040f92f63e30af4aa6536be1d78564f11331c953be673e29",
+            "BlockNumber" -> 799978, "Timestamp" -> 
+           DateObject[{2023, 7, 24, 1, 38, 15.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"1Dqo5aRAVapSkr68ysMVp4TotZE5BQrKMU"}, "Amount" -> 
+              Quantity[0.0008778600000000001, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.00066492, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"19ud31RpVDZfQ8P8AErLRWRbGyXHA8THyu"}, "Amount" -> 
+              Quantity[0.0001547, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "d94d3be2b3ac910cc61a54fd761a8d44eed6da72418e0b25cb64fca457f3c1ec",
+            "BlockNumber" -> 799484, "Timestamp" -> 
+           DateObject[{2023, 7, 20, 6, 55, 57.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1q5zu0ezepx9pwkqn64llcsgmeh7wk5hxffu3scs"}, 
+              "Amount" -> Quantity[0.0004, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"bc1qsgldat8v5a769klf49a3qhk8nma73x4fjx2a3a"}, 
+              "Amount" -> Quantity[0.00033656, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.00003824, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "ce2d51c3619d26fff0d1bd5bb126425823d7bd3e8f21d488ef2c46c8da3e9a59",
+            "BlockNumber" -> 798020, "Timestamp" -> 
+           DateObject[{2023, 7, 10, 0, 11, 50.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1q8rsf53rf7ku98grqzqfdt5qyeh6d6rhhks4nlj"}, 
+              "Amount" -> Quantity[0.00007173, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q00ekrrg9s62pr2w7cl0s8p889l27mds2slqq27"}, 
+              "Amount" -> Quantity[0.0008240400000000001, "Bitcoins"]]}, 
+           "Outputs" -> {
+             Association[
+             "Addresses" -> {"bc1qjfkfjyjrtjsnhgp0uf3ww7z8z83k4yjg0wh46d"}, 
+              "Amount" -> Quantity[0.00081729, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.00006304, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "cb7101f5d098992123c80d1bf2a0386c7b5e49ca7852f951f6692e32f4bf94f4",
+            "BlockNumber" -> 796989, "Timestamp" -> 
+           DateObject[{2023, 7, 3, 10, 31, 45.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"35eeLFLkGrJ5nyjc3rCJNaU4xxLPnCWpFx"}, "Amount" -> 
+              Quantity[0.0031668, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.000033430000000000003`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qt32p3v8k83awa7angqy0wx3fy9a7j70zp5n9qt"}, 
+              "Amount" -> Quantity[0.00309851, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "080f602f953a3975ed6ff01c5ca8d768c7077a249aae88be144f0ea6480575f7",
+            "BlockNumber" -> 795036, "Timestamp" -> 
+           DateObject[{2023, 6, 19, 12, 9, 8.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1q0wknareddsgm580mehzywg8jfzpqcg3z9zet27"}, 
+              "Amount" -> Quantity[34.982645, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.0002, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qgwwk7wjmpakyl07yeasq26nrzaucsgl26fx4j9"}, 
+              "Amount" -> Quantity[34.982381000000004`, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "94edc0dce453edb9c7ea414e23e2b4c5f33d917c27da62aa844974698f1d4380",
+            "BlockNumber" -> 794954, "Timestamp" -> 
+           DateObject[{2023, 6, 18, 23, 45, 49.}, "Instant", "Gregorian", 2.],
+            "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1qe6zeluz04e7anffurk4zuyxj0lggp3fjttyu33"}, 
+              "Amount" -> Quantity[4.979677, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.000101, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qwze45k42kqhcfultqwdguht32x2ze6vdvayatm"}, 
+              "Amount" -> Quantity[4.979509, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "728a63394ed9fb3514a41108598a251a2a08af35a4044ce0d19884702e8d6fab",
+            "BlockNumber" -> 794753, "Timestamp" -> 
+           DateObject[{2023, 6, 17, 15, 7, 29.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"1BYFELzNc3ZgYr5AfdEWqz8vTCwh5wMaao"}, "Amount" -> 
+              Quantity[1.07509008, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.0027500000000000003`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1BYFELzNc3ZgYr5AfdEWqz8vTCwh5wMaao"}, "Amount" -> 
+              Quantity[1.07224758, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "013085f2aac0af393192c3007f7256df2dba4708de05e0a6c533846ae48058fe",
+            "BlockNumber" -> 794562, "Timestamp" -> 
+           DateObject[{2023, 6, 16, 7, 26, 31.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1qkzr7w8v2dmahqwnpg2klj34fvraq8jfagag4tk"}, 
+              "Amount" -> Quantity[0.0014090300000000001`, "Bitcoins"]]}, 
+           "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.00003925, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qkzr7w8v2dmahqwnpg2klj34fvraq8jfagag4tk"}, 
+              "Amount" -> Quantity[0.0013172400000000001`, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "e162b72259fa83053a2351526676776fcecd90b9384c97cc5ecd8b95296966b6",
+            "BlockNumber" -> 792952, "Timestamp" -> 
+           DateObject[{2023, 6, 5, 13, 2, 49.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {
+               "bc1ph9a65tyetapt02003jq043xft4dsgktd3xqhdqd9lmym422wwd6qjqdyky\
+"}, "Amount" -> Quantity[0.00008, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[5.46*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qa3cucfrcq7tjuyg4a2waj8uwcjpact8xfhfa3d"}, 
+              "Amount" -> Quantity[0.000023840000000000002`, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "b63decbc68362754ee54070b69831c39a1a0fd093de1bdcec8122a3d1cc23914",
+            "BlockNumber" -> 792747, "Timestamp" -> 
+           DateObject[{2023, 6, 4, 4, 13, 11.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {
+               "bc1pk3cuh96neeqd6n6np6kh05vewj928h344d7c8nml985g2du4cuws99j95x\
+"}, "Amount" -> Quantity[0.00008, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[5.46*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qga9u3h3w8aufc4ncckq745pze38jeu6n79frnf"}, 
+              "Amount" -> Quantity[0.00002029, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "3e0bf68729b56b34f89a6e193b8a617dcb3781eae789497157acfe0b4678d12a",
+            "BlockNumber" -> 791375, "Timestamp" -> 
+           DateObject[{2023, 5, 25, 21, 11, 8.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1qmwgp8rws648y9sgf9mh8x52xjqe50chywh4sdc"}, 
+              "Amount" -> Quantity[0.01441529, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[6.66*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qyjftk7j84yegdg5jy4zpgj5pl50j7mpzjd8gy4"}, 
+              "Amount" -> Quantity[0.014320590000000001`, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "7d0aeb84588c097896de63c2548b34b66fc10834f4655280de392f12236323ae",
+            "BlockNumber" -> 789670, "Timestamp" -> 
+           DateObject[{2023, 5, 14, 11, 50, 32.}, "Instant", "Gregorian", 2.],
+            "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1qxq2wwhgqmsuh09kf40060g0f0rtudnzd9zn6f4"}, 
+              "Amount" -> Quantity[5.46*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qxq2wwhgqmsuh09kf40060g0f0rtudnzd9zn6f4"}, 
+              "Amount" -> Quantity[0.0001409, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[5.46*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qxq2wwhgqmsuh09kf40060g0f0rtudnzd9zn6f4"}, 
+              "Amount" -> Quantity[0.00009032, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "7dbf7b15405e24a57a3d819c14658796a7d67becf56ed71878a6c58f95047b7d",
+            "BlockNumber" -> 789472, "Timestamp" -> 
+           DateObject[{2023, 5, 13, 3, 48, 26.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"33c4AtHdC3vfr2kT7gYzcUNLCwx4QNnNrE"}, "Amount" -> 
+              Quantity[0.00471, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.00005, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3P6aj3GN8oGk36ozriX7DbX27upuMQ7Cx6"}, "Amount" -> 
+              Quantity[0.0043363, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "2a6d427b806c1ade657141df36c1108617a62f9c3c4cfaee77629da7f7639569",
+            "BlockNumber" -> 789215, "Timestamp" -> 
+           DateObject[{2023, 5, 11, 9, 32, 35.}, "Instant", "Gregorian", 2.], 
+           "Inputs" -> {
+             Association[
+             "Addresses" -> {"bc1qztk58cetmhq0cg67r393rytzl9hvqyh359a83n"}, 
+              "Amount" -> Quantity[1.91357197, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"16gaC2PDrnHettxRSpWokPNnjmCcgyaKr9"}, "Amount" -> 
+              Quantity[0.00108904, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3FLiQxQ6S4ZiMnaZ6j4V6FLfjc2z17DY1h"}, "Amount" -> 
+              Quantity[0.0016175, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1Fqbqi3SLmUK4rE4umZiigrCJg6xA4nEkj"}, "Amount" -> 
+              Quantity[0.00382805, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3G7QKh4Tu4RewBBFUwnBvN5yddjBVe5eU4"}, "Amount" -> 
+              Quantity[0.00165316, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3HQaeFRMP6tNANnrtUprSn7b9nGv3qwFJR"}, "Amount" -> 
+              Quantity[0.00342961, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"33fhD2iAjuEbf5mjvnPU4QmP8897avdfMb"}, "Amount" -> 
+              Quantity[0.0037945500000000003`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3L8L75SqVwuB5VrPjF5FEKMETCWUtstoep"}, "Amount" -> 
+              Quantity[0.00030956, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qcsll4u8jc6zzyyke6muee8nyc6zqgm3jglp49k"}, 
+              "Amount" -> Quantity[0.03554535, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1J519rt4zpLKfE68euqvSJjhusw7Hm4q8X"}, "Amount" -> 
+              Quantity[0.0012705400000000001`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3CwJ7PYdBngcnU3HFeEgUZKWwi4v57Voza"}, "Amount" -> 
+              Quantity[0.00023363, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1CzGW4ZyQSAreUNgZ2bPa1TwUHN2UGjjNn"}, "Amount" -> 
+              Quantity[0.00183011, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"39Aeq3F3woEJLGEkjsxdrQCm1jfmCcNoYM"}, "Amount" -> 
+              Quantity[0.0010892, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1BDTBnViWkEvMybCG9HHQofLZ9qV6jQqnb"}, "Amount" -> 
+              Quantity[0.02066723, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1FxrozxJFzHd2Cn6eA9KS2Jscpq196FEvD"}, "Amount" -> 
+              Quantity[0.00066325, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"39SXeNN4N9pQ3yF49hhrXnGHpowV9xty2Z"}, "Amount" -> 
+              Quantity[0.0068973, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3MVkRzBsJSKuy8GR6YdZRyjT6FBqKZ8uTy"}, "Amount" -> 
+              Quantity[0.0018513800000000001`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"33V7UQz7gDr1Mik5DgKKjNUni7czWjmD52"}, "Amount" -> 
+              Quantity[0.0005883700000000001, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1FQVS8DUBCaH1uekSA2fBczREH84RRupvf"}, "Amount" -> 
+              Quantity[0.00050061, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3HBysJV79phkbuWTNGwYqK965VADf6sisC"}, "Amount" -> 
+              Quantity[0.00342779, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[0.0000726, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1KRVyVB49kT5J6jL2hPkmGtnadDCBD6HL5"}, "Amount" -> 
+              Quantity[0.0016086, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3DfVebaePsZU9TNzM7UFgRKPYQwV9SP6oM"}, "Amount" -> 
+              Quantity[0.00072606, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3QkZytEGeXWXVPSurkbCvLbEcNrwqRHB7G"}, "Amount" -> 
+              Quantity[0.0011205100000000001`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"36Pp2T5968jRGzpALDhHsrU5vf7HZs3JPM"}, "Amount" -> 
+              Quantity[0.00041082, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"32QAj5G4w6FHeNMfE3ZeCeXB74hNUmuFDk"}, "Amount" -> 
+              Quantity[0.00078721, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"14UqHNoPZwQyFRWMc2hLmbj32bXzQ9wQUb"}, "Amount" -> 
+              Quantity[0.04636336, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1GuXy6h1FkkvKwLKzrbsLtwWjmrmH5c3pN"}, "Amount" -> 
+              Quantity[0.00147551, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3CKZDL9uHmjjMD1afN4NWGBdN6MCtyoipz"}, "Amount" -> 
+              Quantity[0.00060165, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"36sP6UfbBZsCkC4ysjUuxwayF1v3wXeVQL"}, "Amount" -> 
+              Quantity[0.0016176300000000001`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1BucHBXZX1ixTrNKaQAf9Bga7HstRPNjEX"}, "Amount" -> 
+              Quantity[0.00754741, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"38Dsmkwbsdx9cpUBKVsxhYEEbRRyTWGMd7"}, "Amount" -> 
+              Quantity[0.00417507, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"36kRGriDxWNSsU1BCv21tr1xzbnJbw5zty"}, "Amount" -> 
+              Quantity[0.00076592, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"34eyFAQGqzDy4pwsTAhmPjBn712XigKB8s"}, "Amount" -> 
+              Quantity[0.00073027, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"32C485xXQzdnP9XvneKyZKvRMZUZXEFMGo"}, "Amount" -> 
+              Quantity[0.00036307, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"33jjR5sLYNs6iYaDdcpv5sRhPvv5yfiGsB"}, "Amount" -> 
+              Quantity[0.00603316, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {
+               "bc1qtx6llrtmjarlu2rcwqceg7u4y8r0vp7m06y72c6x0akqzswsytwqhxulw2\
+"}, "Amount" -> Quantity[0.00544646, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3BCchADa7jwo8xY7iRDXJzzubCuGRtbKgv"}, "Amount" -> 
+              Quantity[0.00165554, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"14e44RMw7oRPo4ypwuuwUxXRFbofNYcv2Q"}, "Amount" -> 
+              Quantity[0.00034250000000000003`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"33yMh1XY2ob7XpY5KSiDpiKSYfDWyN2opg"}, "Amount" -> 
+              Quantity[0.00097486, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qj2g538pk4wyzl626lz0kxutvudffhx706ypchn"}, 
+              "Amount" -> Quantity[0.00023362, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3HzzLcyb6H7X8VaBmCrrobnEUXzEohLdQ9"}, "Amount" -> 
+              Quantity[0.00085002, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"34aJHuoWSdvciYa7wSKHP9FgiAGkctmhnG"}, "Amount" -> 
+              Quantity[0.00090753, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {
+               "bc1qgptet64vnj268fqakurhe4mxxk9xxme8x94ddp75sqal0n7244nq9pu6l2\
+"}, "Amount" -> Quantity[0.0018328, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"36HLsyJggouyK7vB8DeGWuNNf87q2KrDLS"}, "Amount" -> 
+              Quantity[0.0011207300000000001`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1EXatgmAkRf4o4HpFTKc2iZ38e8agYbqix"}, "Amount" -> 
+              Quantity[0.00112297, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1AFG7RBXAk9Eg2MhWmJvxBViZsMYjPtsR2"}, "Amount" -> 
+              Quantity[0.00372333, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3LypaNwZ2EsGeCv5PyhcsUcbzjYiYWhzP1"}, "Amount" -> 
+              Quantity[0.00130054, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"136b8VfTSkADHg7pLoJWjmd2LzBopZyGuD"}, "Amount" -> 
+              Quantity[0.03920788, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qz5lsgsf29cthdlj5jzj054lg92trjd07xqk6g7"}, 
+              "Amount" -> Quantity[0.00083663, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"35xhzBNTKSWT8jnWWqMqDtXgXtMLbrK19Z"}, "Amount" -> 
+              Quantity[0.00059082, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qnrxa4j20lwe89rdjr4umzmz9kdve4scc6t0flm"}, 
+              "Amount" -> Quantity[0.03539889, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"34LJDvvoAeXbrHjd5CxWVhrmaaATXCsuRj"}, "Amount" -> 
+              Quantity[0.00342719, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qk7kdjd6a9vn4nsemcffq2eds7lhy5na83dg8da"}, 
+              "Amount" -> Quantity[0.0024322700000000003`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3NUiAv2Jp4tdkZoidJMq6z37VebHsaaATU"}, "Amount" -> 
+              Quantity[0.00299766, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qq9h5rsyehzjusrmpgzrwkedt27h8p3cnjs65nc"}, 
+              "Amount" -> Quantity[0.0054465, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3FfaLHq4u4eSMzm2tYCikqtCHnm8LKJEdi"}, "Amount" -> 
+              Quantity[0.0254122, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3GjVeuhxk6tnDv9B6qs7X1RnEKBorh3PKd"}, "Amount" -> 
+              Quantity[0.00017775, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"17bBzxunLqyALyP9NASMi4qhByNiLYQpLT"}, "Amount" -> 
+              Quantity[0.00165324, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"17X5PznZpsxRsyXn7bNcf8BZnNEN6PMhcA"}, "Amount" -> 
+              Quantity[0.00129808, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3FNLuFLdrBFiJ9Zx1AtK2vV9ZqMMK6gqZJ"}, "Amount" -> 
+              Quantity[0.00036308, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3H1oe4U8BPs8x1tCTGtB94KDpEDpk7JT8Z"}, "Amount" -> 
+              Quantity[0.00136919, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1Hu6XzMBHcLqzGsSSuVDZ3HWuE7CL5Ao8k"}, "Amount" -> 
+              Quantity[0.00165548, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qs6nj8m27mcl9fj8lawvwnrtplnhs6dqztvalzs"}, 
+              "Amount" -> Quantity[0.0034321, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3PuQ7U36FwUE36gM3dBY8yAoj7EocVFaxN"}, "Amount" -> 
+              Quantity[0.00041329, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q240agl5ftxh7u8sr2pf0an6v00yh04sc8rs5v0"}, 
+              "Amount" -> Quantity[0.00342706, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3Qceyq1YVmGJRctBwMGUUJR4m4PVibz1et"}, "Amount" -> 
+              Quantity[0.00773727, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3ALG5Z7FMPprDZexPHYSWaBNELw46NmAXN"}, "Amount" -> 
+              Quantity[0.00104977, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3Fpje2tZ8zkhVHi5dqe2kYKZgfoih5d3HB"}, "Amount" -> 
+              Quantity[0.00059079, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3GKNJEid56vFQM7ZRyNvrKymjum4haoXAW"}, "Amount" -> 
+              Quantity[0.0055723100000000005`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1Ko5VjjcXCAuVxn3vcVfdDijPgbNFm3ngX"}, "Amount" -> 
+              Quantity[0.0007683, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1DuCgSC7g8LtkbFmCECXnKpeysuDNfS7qA"}, "Amount" -> 
+              Quantity[0.00199707, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"36e98cfGohw1oQB7sCUnG8ojibxJzXaMZB"}, "Amount" -> 
+              Quantity[0.00065127, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"331h2gp29FEJqbWmcfgqXBqJNM8h78g9Sf"}, "Amount" -> 
+              Quantity[0.00181511, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1N1Uqr8Cv15XNCPsjJ2z99KSEXUWQSMMz4"}, "Amount" -> 
+              Quantity[0.00189531, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1FZSg41ihNNU5ZpeUXd3UfPyds4T5aa8yG"}, "Amount" -> 
+              Quantity[0.00072659, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qyv3jxv7qykuksh6xkzefq5g7f7fh9xdanlfg0h"}, 
+              "Amount" -> Quantity[0.00165296, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qus7duzs3v8l6wa4ph55ftpwrnkgjngsc8ct3cj"}, 
+              "Amount" -> Quantity[0.00145253, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3M1B3v72ybYLa5YoQJZzWsHmitNTFdDkQ7"}, "Amount" -> 
+              Quantity[0.00181506, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q9x5z3qwq7tevqnwqmly5wu2dynkrvhgs9pv9cp"}, 
+              "Amount" -> Quantity[0.00090752, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"36p4BjnR92qggupwi2KwPDiBaXH1iUCt3b"}, "Amount" -> 
+              Quantity[0.0016555, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"19JfGpK1u4tDZAPGYt4KSgSjCiNNijR7vQ"}, "Amount" -> 
+              Quantity[0.00165595, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qgak8txx9dgpzhynwx5r4jn02c5lg3fweeslysj"}, 
+              "Amount" -> Quantity[0.00005466, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qcdmj6n5rhv4au9zr7ny3qkt624p7x6jvz48nv5"}, 
+              "Amount" -> Quantity[0.00254015, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"33y3q7Ga9DuE4UfX8e4LCWQG4dGoyst7En"}, "Amount" -> 
+              Quantity[0.00257579, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3J9Z8EHqNF9s5rrVhxQvTJJFueHR6ASkCq"}, "Amount" -> 
+              Quantity[0.00044887000000000003`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3L6xPRVVReXxCVUP42zwGRx894Tbp6e8JW"}, "Amount" -> 
+              Quantity[0.00014521, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3LYSphyEEqAjnFXmEaTSuF1JchLKqjDYnw"}, "Amount" -> 
+              Quantity[0.0007683, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3MsJXV2uePPUrrxMWTuPTJMEuwghKMHCqc"}, "Amount" -> 
+              Quantity[0.00130047, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qvxkmtwvykapmg4tfr8j6pm8qz8zlgl05pup5z5"}, 
+              "Amount" -> Quantity[0.00041987000000000003`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"346pi1hSHG75DeukwzQQ9CQt9ziSoFmPwS"}, "Amount" -> 
+              Quantity[0.00094306, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"37eHxCaCzJ5GwkabUeLGeNrC8g1JnLLPR2"}, "Amount" -> 
+              Quantity[0.00076597, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"15eZR2ZCruu8jTS1qAuN6DSg5YtQTmLyxY"}, "Amount" -> 
+              Quantity[0.0009747, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qug3njz0alnn96prtv4jvjw2m0fjkpjdcfm53xq"}, 
+              "Amount" -> Quantity[0.00186579, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"37GztUFFUVrrfDGW8YpBw9WHFSFtNcRdAC"}, "Amount" -> 
+              Quantity[0.0016534, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qefm524srpd26pv4xjdqdnthlahat3zegjruejy"}, 
+              "Amount" -> Quantity[1.4631116, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3DvpDuxAmFAdtMXjf6opTcTHnydSh2x3tx"}, "Amount" -> 
+              Quantity[0.00076585, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3GLhreTHHN8jPuRcceBffsMxyeEGWgm4SG"}, "Amount" -> 
+              Quantity[0.0007658, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3M2XJ27QNKC8E3H2pxJbHXRVzFPJxaGCGL"}, "Amount" -> 
+              Quantity[0.00528543, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1GtrBD4u2BQP2nFfcUkQQme8w2AaAxPnpn"}, "Amount" -> 
+              Quantity[0.00076832, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"15eFicXmi4kcoixSud74rk7xGm65pYWeG2"}, "Amount" -> 
+              Quantity[0.00879518, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1PDyi9AQnbS4byJ8spsmsao259AbJQcxb"}, "Amount" -> 
+              Quantity[0.00108908, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"39L5fhPzVwWDFJc5mEE9ToUHSJbg377e4Z"}, "Amount" -> 
+              Quantity[0.00137951, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3JdXFYL9TfvCJLt2EwFXgKh3r3Fn39QzzB"}, "Amount" -> 
+              Quantity[0.0034273800000000003`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1BfH3ZgT9NCwjAjLa2rreWQRoA7RhVrDiW"}, "Amount" -> 
+              Quantity[0.0011602000000000001`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3MeTWaqgA491NHKq29PEigHQZ4n9mMiQrg"}, "Amount" -> 
+              Quantity[0.0008722000000000001, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qn6cm96t6ma9e5zqcnxzv6vfedaf7lhmay7m2qm"}, 
+              "Amount" -> Quantity[0.0006081, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1GfMYzjAFZTvH9cjALTs43dQ41VReBhk5s"}, "Amount" -> 
+              Quantity[0.00105224, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1LYC3rnQJcRyVvRwN2sFzD1wHhgFZTdH4o"}, "Amount" -> 
+              Quantity[0.00987389, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3KYTjUZJiF4Wkjes1SCz4jnujQiHo8MivE"}, "Amount" -> 
+              Quantity[0.00076584, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"1KzVXev5n7PUqRD9TdwFhK1GAoYGAeC87g"}, "Amount" -> 
+              Quantity[0.036528200000000004`, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qcnrk7dpmcfdewl9xh7056vsdh73wdnvmvj77x8"}, 
+              "Amount" -> Quantity[0.00342953, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1qqfxsed3d6yh7jrj4kkq8swermafkwc8qkvwmqu"}, 
+              "Amount" -> Quantity[0.0005908, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3D6qRaBqhkZQPr8refcG17mh3o7LzosgWs"}, "Amount" -> 
+              Quantity[0.0007260400000000001, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3C8BkfsdpYZPX9JX4gbYokmGkZsBRZJBJz"}, "Amount" -> 
+              Quantity[0.00076595, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"18oWWrhM8gNoee74sUKedSXgBRoriMkpjm"}, "Amount" -> 
+              Quantity[0.00108925, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3GpEbaQmPH6ApPLXvnkcQDhqivX8SBkgx9"}, "Amount" -> 
+              Quantity[0.00205486, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3PvpnCx5CgStWzPR99RuTWyQ6w19cbJ8j3"}, "Amount" -> 
+              Quantity[0.00199657, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3M5yTCKBPYpF3mFJXkQ4AjV8zGxaw6FJsr"}, "Amount" -> 
+              Quantity[0.00059075, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"3LXxVNaCHE9wCV4YPgs5xciShi7q3wVgEP"}, "Amount" -> 
+              Quantity[0.0013005, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"37NMQS2Hm93ruf8BfUEYRuyYN7cPwPfGrV"}, "Amount" -> 
+              Quantity[0.00065906, "Bitcoins"]]}], 
+          Association[
+          "TransactionID" -> 
+           "51b1db68c8557dbcb51d042ecc45a859b85e6af2658cfda5e005e2137a5a7020",
+            "BlockNumber" -> 786662, "Timestamp" -> 
+           DateObject[{2023, 4, 23, 11, 28, 33.}, "Instant", "Gregorian", 2.],
+            "Inputs" -> {
+             Association[
+             "Addresses" -> {
+               "bc1p6ejhjh0t2dfe3d83wf4ngnz7xlgk8hrc7e086x9qgr7qwt33ttuq2ydzd4\
+"}, "Amount" -> Quantity[0.00003, "Bitcoins"]]}, "Outputs" -> {
+             Association[
+             "Addresses" -> {"34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"}, "Amount" -> 
+              Quantity[5.46*^-6, "Bitcoins"]], 
+             Association[
+             "Addresses" -> {"bc1q0ahgrjlexsmj3j22xqasl3qae5p8wf93cj5rmu"}, 
+              "Amount" -> Quantity[0.0000159, "Bitcoins"]]}]}], 
+      "AllowEmbedding" -> True, "InitialShape" -> 
+      TypeSystem`PackageScope`DocumentShape[
+        Association[{"Address"} -> 
+         TypeSystem`PackageScope`AtomShape[380.8], {"Balance"} -> 
+         TypeSystem`PackageScope`AtomShape[75], {"ValueInUSDollars"} -> 
+         TypeSystem`PackageScope`AtomShape[75], {"TotalTransactions"} -> 
+         TypeSystem`PackageScope`AtomShape[34], {"TransactionList"} -> 
+         TypeSystem`PackageScope`ElidedShape[1]], 1], "InitialType" -> 
+      TypeSystem`Struct[{
+        "Address", "Balance", "ValueInUSDollars", "TotalTransactions", 
+         "TransactionList"}, {
+         TypeSystem`Atom[String], 
+         TypeSystem`Atom[
+          Quantity[1, "Bitcoins"]], 
+         TypeSystem`Atom[
+          Quantity[1, "USDollars"]], 
+         TypeSystem`Atom[Integer], 
+         TypeSystem`Vector[
+          
+          TypeSystem`Struct[{
+           "TransactionID", "BlockNumber", "Timestamp", "Inputs", "Outputs"}, {
+            TypeSystem`Atom[String], 
+            TypeSystem`Atom[Integer], 
+            TypeSystem`Atom[DateObject], 
+            TypeSystem`Vector[
+             TypeSystem`Struct[{"Addresses", "Amount"}, {
+               TypeSystem`Vector[
+                TypeSystem`Atom[String], 1], 
+               TypeSystem`Atom[
+                Quantity[1, "Bitcoins"]]}], TypeSystem`AnyLength], 
+            TypeSystem`Vector[
+             TypeSystem`Struct[{"Addresses", "Amount"}, {
+               TypeSystem`Vector[
+                TypeSystem`Atom[String], 1], 
+               TypeSystem`Atom[
+                Quantity[1, "Bitcoins"]]}], TypeSystem`AnyLength]}], 20]}], 
+      "Meta" -> Association[], "RowTarget" -> 20, "ColumnTarget" -> 10, 
+      "Shape" -> TypeSystem`PackageScope`DocumentShape[
+        Association[{"Address"} -> 
+         TypeSystem`PackageScope`AtomShape[380.8], {"Balance"} -> 
+         TypeSystem`PackageScope`AtomShape[75], {"ValueInUSDollars"} -> 
+         TypeSystem`PackageScope`AtomShape[75], {"TotalTransactions"} -> 
+         TypeSystem`PackageScope`AtomShape[34], {"TransactionList"} -> 
+         TypeSystem`PackageScope`ElidedShape[1]], 1], "Type" -> 
+      TypeSystem`Struct[{
+        "Address", "Balance", "ValueInUSDollars", "TotalTransactions", 
+         "TransactionList"}, {
+         TypeSystem`Atom[String], 
+         TypeSystem`Atom[
+          Quantity[1, "Bitcoins"]], 
+         TypeSystem`Atom[
+          Quantity[1, "USDollars"]], 
+         TypeSystem`Atom[Integer], 
+         TypeSystem`Vector[
+          
+          TypeSystem`Struct[{
+           "TransactionID", "BlockNumber", "Timestamp", "Inputs", "Outputs"}, {
+            TypeSystem`Atom[String], 
+            TypeSystem`Atom[Integer], 
+            TypeSystem`Atom[DateObject], 
+            TypeSystem`Vector[
+             TypeSystem`Struct[{"Addresses", "Amount"}, {
+               TypeSystem`Vector[
+                TypeSystem`Atom[String], 1], 
+               TypeSystem`Atom[
+                Quantity[1, "Bitcoins"]]}], TypeSystem`AnyLength], 
+            TypeSystem`Vector[
+             TypeSystem`Struct[{"Addresses", "Amount"}, {
+               TypeSystem`Vector[
+                TypeSystem`Atom[String], 1], 
+               TypeSystem`Atom[
+                Quantity[1, "Bitcoins"]]}], TypeSystem`AnyLength]}], 20]}], 
+      "Path" -> {}, "DisplayedRowCount" -> 20, "DisplayedColumnCount" -> 10, 
+      "DataRowCount" -> 5, "DataColumnCount" -> 1, "SortPaths" -> {}, 
+      "SortDirections" -> {}, "HiddenItemsMap" -> Null, "UpdateType" -> 1], 
+     TypeSystem`NestedGrid`PackagePrivate`$outputID$$, 
+     TypeSystem`NestedGrid`PackagePrivate`$path$$ = {}, 
+     TypeSystem`NestedGrid`PackagePrivate`$vPos$$ = 1, 
+     TypeSystem`NestedGrid`PackagePrivate`$hPos$$ = 1, 
+     TypeSystem`NestedGrid`PackagePrivate`$grid$$ = 
+     DynamicModule[{TypeSystem`NestedGrid`PackagePrivate`renderedGrid = Deploy[
+         Style[
+          Grid[{{
+             Item[
+              Pane[
+               Annotation[
+                EventHandler[
+                 MouseAppearance[
+                  Mouseover["Address", 
+                   Style[
+                   "Address", FontColor -> 
+                    RGBColor[
                     0.27450980392156865`, 0.5372549019607843, 
                     0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
-                If[
-                  TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$], 
-                  TypeSystem`NestedGrid`PackagePrivate`updateState[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$path$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 If[
+                   TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$], 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]][{
                     Key["Address"]}, 1]]], 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["Address"]}, "RowHeader", False], "Mouse"], 
-              ImageSize -> {{1, Full}, Automatic}, 
-              ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
-             GrayLevel[0.95], Alignment -> {Left, Baseline}], 
-            Item[
-             Pane[
-              Annotation["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo", 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["Address"]}, "Item", False], "Mouse"], 
-              ImageSize -> {{380.8, Full}, Automatic}, 
-              ImageMargins -> {{5, 3}, {4, 5}}], 
-             ItemSize -> {Full, Automatic}]}, {
-            Item[
-             Pane[
-              Annotation[
-               EventHandler[
-                MouseAppearance[
-                 Mouseover["Balance", 
-                  Style[
-                  "Balance", FontColor -> 
-                   RGBColor[
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["Address"]}, "RowHeader", False], "Mouse"], 
+               ImageSize -> {{1, Full}, Automatic}, 
+               ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
+              GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+             Item[
+              Pane[
+               Annotation["34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo", 
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["Address"]}, "Item", False], "Mouse"], 
+               ImageSize -> {{380.8, Full}, Automatic}, 
+               ImageMargins -> {{5, 3}, {4, 5}}], 
+              ItemSize -> {Full, Automatic}]}, {
+             Item[
+              Pane[
+               Annotation[
+                EventHandler[
+                 MouseAppearance[
+                  Mouseover["Balance", 
+                   Style[
+                   "Balance", FontColor -> 
+                    RGBColor[
                     0.27450980392156865`, 0.5372549019607843, 
                     0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
-                If[
-                  TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$], 
-                  TypeSystem`NestedGrid`PackagePrivate`updateState[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$path$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 If[
+                   TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$], 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]][{
                     Key["Balance"]}, 1]]], 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["Balance"]}, "RowHeader", False], "Mouse"], 
-              ImageSize -> {{1, Full}, Automatic}, 
-              ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
-             GrayLevel[0.95], Alignment -> {Left, Baseline}], 
-            Item[
-             Pane[
-              Annotation[
-               RawBoxes[
-                RowBox[{
-                  RowBox[{
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["Balance"]}, "RowHeader", False], "Mouse"], 
+               ImageSize -> {{1, Full}, Automatic}, 
+               ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
+              GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+             Item[
+              Pane[
+               Annotation[
+                RawBoxes[
+                 RowBox[{
+                   RowBox[{
                     FormBox["\"\:0e3f\"", TraditionalForm], 
                     "\[VeryThinSpace]"}], "250597.39185198`"}]], 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["Balance"]}, "Item", False], "Mouse"], 
-              ImageSize -> {{75, Full}, Automatic}, 
-              ImageMargins -> {{5, 3}, {4, 5}}], 
-             ItemSize -> {Full, Automatic}]}, {
-            Item[
-             Pane[
-              Annotation[
-               EventHandler[
-                MouseAppearance[
-                 Mouseover["ValueInUSDollars", 
-                  Style[
-                  "ValueInUSDollars", FontColor -> 
-                   RGBColor[
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["Balance"]}, "Item", False], "Mouse"], 
+               ImageSize -> {{75, Full}, Automatic}, 
+               ImageMargins -> {{5, 3}, {4, 5}}], 
+              ItemSize -> {Full, Automatic}]}, {
+             Item[
+              Pane[
+               Annotation[
+                EventHandler[
+                 MouseAppearance[
+                  Mouseover["ValueInUSDollars", 
+                   Style[
+                   "ValueInUSDollars", FontColor -> 
+                    RGBColor[
                     0.27450980392156865`, 0.5372549019607843, 
                     0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
-                If[
-                  TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$], 
-                  TypeSystem`NestedGrid`PackagePrivate`updateState[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$path$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 If[
+                   TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$], 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]][{
                     Key["ValueInUSDollars"]}, 1]]], 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["ValueInUSDollars"]}, "RowHeader", False], "Mouse"], 
-              ImageSize -> {{1, Full}, Automatic}, 
-              ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
-             GrayLevel[0.95], Alignment -> {Left, Baseline}], 
-            Item[
-             Pane[
-              Annotation[
-               RawBoxes[
-                RowBox[{
-                  RowBox[{
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["ValueInUSDollars"]}, "RowHeader", False], "Mouse"], 
+               ImageSize -> {{1, Full}, Automatic}, 
+               ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
+              GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+             Item[
+              Pane[
+               Annotation[
+                RawBoxes[
+                 RowBox[{
+                   RowBox[{
                     FormBox["\"$\"", TraditionalForm], "\[VeryThinSpace]"}], 
-                  InterpretationBox[
-                  "6.5937043804164`*^9", 6.5937043804164*^9, Selectable -> 
-                   False]}]], 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["ValueInUSDollars"]}, "Item", False], "Mouse"], 
-              ImageSize -> {{75, Full}, Automatic}, 
-              ImageMargins -> {{5, 3}, {4, 5}}], 
-             ItemSize -> {Full, Automatic}]}, {
-            Item[
-             Pane[
-              Annotation[
-               EventHandler[
-                MouseAppearance[
-                 Mouseover["TotalTransactions", 
-                  Style[
-                  "TotalTransactions", FontColor -> 
-                   RGBColor[
+                   InterpretationBox[
+                   "6.5937043804164`*^9", 6.5937043804164*^9, Selectable -> 
+                    False]}]], 
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["ValueInUSDollars"]}, "Item", False], "Mouse"], 
+               ImageSize -> {{75, Full}, Automatic}, 
+               ImageMargins -> {{5, 3}, {4, 5}}], 
+              ItemSize -> {Full, Automatic}]}, {
+             Item[
+              Pane[
+               Annotation[
+                EventHandler[
+                 MouseAppearance[
+                  Mouseover["TotalTransactions", 
+                   Style[
+                   "TotalTransactions", FontColor -> 
+                    RGBColor[
                     0.27450980392156865`, 0.5372549019607843, 
                     0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
-                If[
-                  TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$], 
-                  TypeSystem`NestedGrid`PackagePrivate`updateState[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$path$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 If[
+                   TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$], 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]][{
                     Key["TotalTransactions"]}, 1]]], 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["TotalTransactions"]}, "RowHeader", False], "Mouse"], 
-              ImageSize -> {{1, Full}, Automatic}, 
-              ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
-             GrayLevel[0.95], Alignment -> {Left, Baseline}], 
-            Item[
-             Pane[
-              Annotation[
-               RawBoxes["844"], 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["TotalTransactions"]}, "Item", False], "Mouse"], 
-              ImageSize -> {{34, Full}, Automatic}, 
-              ImageMargins -> {{5, 3}, {4, 5}}], 
-             ItemSize -> {Full, Automatic}]}, {
-            Item[
-             Pane[
-              Annotation[
-               EventHandler[
-                MouseAppearance[
-                 Mouseover["TransactionList", 
-                  Style[
-                  "TransactionList", FontColor -> 
-                   RGBColor[
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["TotalTransactions"]}, "RowHeader", False], "Mouse"], 
+               ImageSize -> {{1, Full}, Automatic}, 
+               ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
+              GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+             Item[
+              Pane[
+               Annotation[
+                RawBoxes["844"], 
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["TotalTransactions"]}, "Item", False], "Mouse"], 
+               ImageSize -> {{34, Full}, Automatic}, 
+               ImageMargins -> {{5, 3}, {4, 5}}], 
+              ItemSize -> {Full, Automatic}]}, {
+             Item[
+              Pane[
+               Annotation[
+                EventHandler[
+                 MouseAppearance[
+                  Mouseover["TransactionList", 
+                   Style[
+                   "TransactionList", FontColor -> 
+                    RGBColor[
                     0.27450980392156865`, 0.5372549019607843, 
                     0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
-                If[
-                  TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$], 
-                  TypeSystem`NestedGrid`PackagePrivate`updateState[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$path$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 If[
+                   TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$], 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]][{
                     Key["TransactionList"]}, 1]]], 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["TransactionList"]}, "RowHeader", False], "Mouse"], 
-              ImageSize -> {{1, Full}, Automatic}, 
-              ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
-             GrayLevel[0.95], Alignment -> {Left, Baseline}], 
-            Item[
-             Pane[
-              Annotation[
-               EventHandler[
-                MouseAppearance[
-                 Mouseover[
-                  Style[
-                   Row[{"\[ThinSpace]{ ", 
-                    Subscript["\[Ellipsis]", 20], " }\[ThinSpace]"}], 
-                   GrayLevel[0.5]], 
-                  Style[
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["TransactionList"]}, "RowHeader", False], "Mouse"], 
+               ImageSize -> {{1, Full}, Automatic}, 
+               ImageMargins -> {{5, 3}, {4, 5}}], Background -> 
+              GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+             Item[
+              Pane[
+               Annotation[
+                EventHandler[
+                 MouseAppearance[
+                  Mouseover[
                    Style[
                     Row[{"\[ThinSpace]{ ", 
                     Subscript["\[Ellipsis]", 20], " }\[ThinSpace]"}], 
+                    GrayLevel[0.5]], 
+                   Style[
+                    Style[
+                    Row[{"\[ThinSpace]{ ", 
+                    Subscript["\[Ellipsis]", 20], " }\[ThinSpace]"}], 
                     GrayLevel[0.5]], FontColor -> 
-                   RGBColor[
+                    RGBColor[
                     0.27450980392156865`, 0.5372549019607843, 
                     0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
-                If[
-                  TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$], 
-                  TypeSystem`NestedGrid`PackagePrivate`updateState[
-                  TypeSystem`NestedGrid`PackagePrivate`$state$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$path$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-                   TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 If[
+                   TypeSystem`NestedGrid`PackagePrivate`checkInteractivity[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$], 
+                   TypeSystem`NestedGrid`PackagePrivate`updateState[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`localHold[
                     TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]][{
                     Key["TransactionList"]}, 4]]], 
-               TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
-                 Key["TransactionList"]}, "Item", False], "Mouse"], 
-              ImageMargins -> {{5, 3}, {4, 5}}], BaseStyle -> {
-               GrayLevel[0.5]}]}}, 
-          BaseStyle -> {
-           ContextMenu -> 
-            Dynamic[TypeSystem`NestedGrid`PackagePrivate`$contextMenuTrigger; 
-              Which[TypeSystem`NestedGrid`PackagePrivate`$lastOutputID =!= 
-                TypeSystem`NestedGrid`PackagePrivate`localHold[
-                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$], {}, 
-                TypeSystem`NestedGrid`PackagePrivate`$contextMenuTrigger === 
-                TypeSystem`NestedGrid`PackagePrivate`$lastContextMenuTrigger, 
-                TypeSystem`NestedGrid`PackagePrivate`$lastContextMenu, True, 
-                TypeSystem`NestedGrid`PackagePrivate`$lastContextMenuTrigger = 
-                 TypeSystem`NestedGrid`PackagePrivate`$contextMenuTrigger; 
-                TypeSystem`NestedGrid`PackagePrivate`$lastContextMenu = 
-                 Block[{TypeSystem`NestedGrid`PackagePrivate`$globalScrollPos = \
-{TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+                TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                 TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][{
+                  Key["TransactionList"]}, "Item", False], "Mouse"], 
+               ImageMargins -> {{5, 3}, {4, 5}}], BaseStyle -> {
+                GrayLevel[0.5]}]}}, 
+           BaseStyle -> {
+            ContextMenu -> 
+             Dynamic[TypeSystem`NestedGrid`PackagePrivate`$contextMenuTrigger; 
+               Which[TypeSystem`NestedGrid`PackagePrivate`$lastOutputID =!= 
+                 TypeSystem`NestedGrid`PackagePrivate`localHold[
+                  TypeSystem`NestedGrid`PackagePrivate`$outputID$$], {}, 
+                 TypeSystem`NestedGrid`PackagePrivate`$contextMenuTrigger === 
+                 TypeSystem`NestedGrid`PackagePrivate`$lastContextMenuTrigger,
+                  TypeSystem`NestedGrid`PackagePrivate`$lastContextMenu, True,
+                  TypeSystem`NestedGrid`PackagePrivate`$\
+lastContextMenuTrigger = 
+                  TypeSystem`NestedGrid`PackagePrivate`$contextMenuTrigger; 
+                 TypeSystem`NestedGrid`PackagePrivate`$lastContextMenu = 
+                  Block[{TypeSystem`NestedGrid`PackagePrivate`$\
+globalScrollPos = {TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$hPos$$}}, 
-                   
-                   With[{TypeSystem`NestedGrid`PackagePrivate`lastPath$ = 
+                    
+                    With[{TypeSystem`NestedGrid`PackagePrivate`lastPath$ = 
                     TypeSystem`NestedGrid`PackagePrivate`$lastPath, 
                     TypeSystem`NestedGrid`PackagePrivate`lastPathType$ = 
                     TypeSystem`NestedGrid`PackagePrivate`$lastPathType, 
@@ -2039,136 +2043,134 @@ lastPathIsLeafHeader, TypeSystem`NestedGrid`PackagePrivate`headerHidden$ = And[
                     TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                     TypeSystem`NestedGrid`PackagePrivate`cellPaste]], 
                     MenuEvaluator -> Automatic], Nothing]}]]]]], FontFamily -> 
-            "Source Sans Pro", FontSize -> 14, FontWeight -> Plain}, Dividers -> 
-          All, FrameStyle -> GrayLevel[0.7490196078431373], 
-          Spacings -> {0, 0}, Alignment -> Left, 
-          BaseStyle -> {
-           FontFamily -> "Source Sans Pro", FontSize -> 14, FontWeight -> 
-            Plain}], LineBreakWithin -> False, ContextMenu -> {}, NumberMarks -> 
-         False, ShowAutoStyles -> False]], 
-      TypeSystem`NestedGrid`PackagePrivate`initialQ = True}, 
-     Dynamic[
-      TypeSystem`NestedGrid`PackagePrivate`setupViewPath[
-      TypeSystem`NestedGrid`PackagePrivate`$path$$, If[
-         Not[TypeSystem`NestedGrid`PackagePrivate`initialQ], 
-         Module[{
-          TypeSystem`NestedGrid`PackagePrivate`tmpGrid$ = $Failed, 
-           TypeSystem`NestedGrid`PackagePrivate`tmpData$ = 
-           TypeSystem`NestedGrid`PackagePrivate`datasetData[
-            TypeSystem`NestedGrid`PackagePrivate`$state$$]}, 
-          TypeSystem`NestedGrid`PackagePrivate`tmpGrid$ = If[
-             FailureQ[TypeSystem`NestedGrid`PackagePrivate`tmpData$], 
-             TypeSystem`NestedGrid`PackagePrivate`renderedGrid, 
-             TypeSystem`NestedGrid`PackagePrivate`renderGrid[
-             TypeSystem`NestedGrid`PackagePrivate`$state$$, 
-              TypeSystem`NestedGrid`PackagePrivate`$path$$, 
-              TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
-              TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
-              TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-              TypeSystem`NestedGrid`PackagePrivate`localHold[
-              TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][
-             TypeSystem`NestedGrid`PackagePrivate`tmpData$]]; If[
-            Not[
-             FailureQ[TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]], 
-            TypeSystem`NestedGrid`PackagePrivate`renderedGrid = 
-            TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]; Null]]; 
-       TypeSystem`NestedGrid`PackagePrivate`initialQ = False; 
-       TypeSystem`NestedGrid`PackagePrivate`$vPos$$; 
-       TypeSystem`NestedGrid`PackagePrivate`$hPos$$; If[
-         FailureQ[TypeSystem`NestedGrid`PackagePrivate`renderedGrid], 
-         TypeSystem`SparseGrid[
-          TypeSystem`H["(data no longer present)"]], 
-         TypeSystem`NestedGrid`PackagePrivate`renderedGrid]], 
-      TrackedSymbols :> {
-       TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
-        TypeSystem`NestedGrid`PackagePrivate`$hPos$$}], 
-     DynamicModuleValues :> {}], 
-    TypeSystem`NestedGrid`PackagePrivate`$topBar$$ = Dynamic[
-     TypeSystem`NestedGrid`PackagePrivate`makeFramedBar[
-      TypeSystem`PackageScope`SubViewPathbar[
-      TypeSystem`NestedGrid`PackagePrivate`$path$$, 
-       TypeSystem`NestedGrid`PackagePrivate`updateState[
-       TypeSystem`NestedGrid`PackagePrivate`$state$$, 
-        TypeSystem`NestedGrid`PackagePrivate`$path$$, 
-        TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
-        TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
-        TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-        TypeSystem`NestedGrid`PackagePrivate`localHold[
-        TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]]], 
-     TrackedSymbols :> {TypeSystem`NestedGrid`PackagePrivate`$path$$}], 
-    TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$ = Style[
-     Framed[
+             "Source Sans Pro", FontSize -> 14, FontWeight -> Plain}, 
+           Dividers -> All, FrameStyle -> GrayLevel[0.7490196078431373], 
+           Spacings -> {0, 0}, Alignment -> Left, 
+           BaseStyle -> {
+            FontFamily -> "Source Sans Pro", FontSize -> 14, FontWeight -> 
+             Plain}], LineBreakWithin -> False, ContextMenu -> {}, 
+          NumberMarks -> False, ShowAutoStyles -> False]], 
+       TypeSystem`NestedGrid`PackagePrivate`initialQ = True}, 
       Dynamic[
-       Replace[
-       TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$, {
-        TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-           TypeSystem`NestedGrid`PackagePrivate`localHold[
-           TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][Null, 
-           Blank[]] -> "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
-           TypeSystem`NestedGrid`PackagePrivate`localHold[
-           TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][
-           Pattern[TypeSystem`NestedGrid`PackagePrivate`path$, 
-            Blank[]], 
-           Pattern[TypeSystem`NestedGrid`PackagePrivate`pathType$, 
-            Blank[]], 
-           Pattern[TypeSystem`NestedGrid`PackagePrivate`isLeafHeader$, 
-            Blank[]]] :> (
-          Increment[TypeSystem`NestedGrid`PackagePrivate`$contextMenuTrigger]; 
-          TypeSystem`NestedGrid`PackagePrivate`$lastPath = 
-           TypeSystem`NestedGrid`PackagePrivate`path$; 
-          TypeSystem`NestedGrid`PackagePrivate`$lastPathType = 
-           TypeSystem`NestedGrid`PackagePrivate`pathType$; 
-          TypeSystem`NestedGrid`PackagePrivate`$lastPathIsLeafHeader = 
-           TypeSystem`NestedGrid`PackagePrivate`isLeafHeader$; 
-          TypeSystem`NestedGrid`PackagePrivate`$lastOutputID = 
-           TypeSystem`NestedGrid`PackagePrivate`localHold[
-            TypeSystem`NestedGrid`PackagePrivate`$outputID$$]; 
-          TypeSystem`NestedGrid`PackagePrivate`makePathTrail[
-           TypeSystem`NestedGrid`PackagePrivate`path$, 
-            TypeSystem`NestedGrid`PackagePrivate`makePathElements]), Null :> 
-         Spacer[10], Blank[] :> Spacer[10]}], 
+       TypeSystem`NestedGrid`PackagePrivate`setupViewPath[
+       TypeSystem`NestedGrid`PackagePrivate`$path$$, If[
+          Not[TypeSystem`NestedGrid`PackagePrivate`initialQ], 
+          Module[{
+           TypeSystem`NestedGrid`PackagePrivate`tmpGrid$ = $Failed, 
+            TypeSystem`NestedGrid`PackagePrivate`tmpData$ = 
+            TypeSystem`NestedGrid`PackagePrivate`datasetData[
+             TypeSystem`NestedGrid`PackagePrivate`$state$$]}, 
+           TypeSystem`NestedGrid`PackagePrivate`tmpGrid$ = If[
+              FailureQ[TypeSystem`NestedGrid`PackagePrivate`tmpData$], 
+              TypeSystem`NestedGrid`PackagePrivate`renderedGrid, 
+              TypeSystem`NestedGrid`PackagePrivate`renderGrid[
+              TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+               TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+               TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+               TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
+               TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+               TypeSystem`NestedGrid`PackagePrivate`localHold[
+               TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][
+              TypeSystem`NestedGrid`PackagePrivate`tmpData$]]; If[
+             Not[
+              FailureQ[TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]], 
+             TypeSystem`NestedGrid`PackagePrivate`renderedGrid = 
+             TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]; Null]]; 
+        TypeSystem`NestedGrid`PackagePrivate`initialQ = False; 
+        TypeSystem`NestedGrid`PackagePrivate`$vPos$$; 
+        TypeSystem`NestedGrid`PackagePrivate`$hPos$$; If[
+          FailureQ[TypeSystem`NestedGrid`PackagePrivate`renderedGrid], 
+          TypeSystem`SparseGrid[
+           TypeSystem`H["(data no longer present)"]], 
+          TypeSystem`NestedGrid`PackagePrivate`renderedGrid]], 
        TrackedSymbols :> {
-        TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$}], FrameStyle -> 
-      None, ImageMargins -> 0, FrameMargins -> 0, Alignment -> Top, 
-      ImageSize -> {Automatic, 15}], FontSize -> 1], 
-    TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$ = Null}, 
-    DynamicWrapperBox[
-     DynamicBox[ToBoxes[
-       Dataset`DatasetContent[
-       2, "Path" -> Hold[TypeSystem`NestedGrid`PackagePrivate`$path$$], 
-        "Grid" -> Hold[TypeSystem`NestedGrid`PackagePrivate`$grid$$], "State" -> 
-        Hold[TypeSystem`NestedGrid`PackagePrivate`$state$$], "VPos" -> 
-        Hold[TypeSystem`NestedGrid`PackagePrivate`$vPos$$], "HPos" -> 
-        Hold[TypeSystem`NestedGrid`PackagePrivate`$hPos$$], "TopBar" -> 
-        Hold[TypeSystem`NestedGrid`PackagePrivate`$topBar$$], "BottomBar" -> 
-        Hold[TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$], "OutputID" -> 
-        Hold[
-          TypeSystem`NestedGrid`PackagePrivate`localHold[
-          TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]], StandardForm],
-      ImageSizeCache->{505., {74.134033203125, 79.865966796875}},
-      TrackedSymbols:>{
-       TypeSystem`NestedGrid`PackagePrivate`$state$$, 
-        TypeSystem`NestedGrid`PackagePrivate`$grid$$}], 
-     TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$ = 
-     MouseAnnotation[],
-     ImageSizeCache->{505., {74.134033203125, 79.865966796875}}],
-    BaseStyle->{LineBreakWithin -> False},
-    DynamicModuleValues:>{},
-    Initialization:>(TypeSystem`NestedGrid`PackagePrivate`$outputID$$ = 
-     CreateUUID[]),
-    UnsavedVariables:>{TypeSystem`NestedGrid`PackagePrivate`$outputID$$}],
-   Deploy,
-   DefaultBaseStyle->"Deploy"],
-  Dataset`InterpretDataset[1],
-  Editable->False,
-  SelectWithContents->True,
-  Selectable->False], "\[IndentingNewLine]", 
- RowBox[{"0", "x00000000219ab540356cBB839Cbe05303d7705Fa"}]}], "Input",
- CellChangeTimes->{{3.9025102956106415`*^9, 
-  3.9025102968289866`*^9}},ExpressionUUID->"65972a58-6fbc-486c-a048-\
+        TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+         TypeSystem`NestedGrid`PackagePrivate`$hPos$$}], 
+      DynamicModuleValues :> {}], 
+     TypeSystem`NestedGrid`PackagePrivate`$topBar$$ = Dynamic[
+      TypeSystem`NestedGrid`PackagePrivate`makeFramedBar[
+       TypeSystem`PackageScope`SubViewPathbar[
+       TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+        TypeSystem`NestedGrid`PackagePrivate`updateState[
+        TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+         TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+         TypeSystem`NestedGrid`PackagePrivate`$vPos$$, 
+         TypeSystem`NestedGrid`PackagePrivate`$hPos$$, 
+         TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+         TypeSystem`NestedGrid`PackagePrivate`localHold[
+         TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]]], 
+      TrackedSymbols :> {TypeSystem`NestedGrid`PackagePrivate`$path$$}], 
+     TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$ = Style[
+      Framed[
+       Dynamic[
+        Replace[
+        TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$, {
+         TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+            TypeSystem`NestedGrid`PackagePrivate`localHold[
+            TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][Null, 
+            Blank[]] -> "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[
+            TypeSystem`NestedGrid`PackagePrivate`localHold[
+            TypeSystem`NestedGrid`PackagePrivate`$outputID$$]][
+            Pattern[TypeSystem`NestedGrid`PackagePrivate`path$, 
+             Blank[]], 
+            Pattern[TypeSystem`NestedGrid`PackagePrivate`pathType$, 
+             Blank[]], 
+            Pattern[TypeSystem`NestedGrid`PackagePrivate`isLeafHeader$, 
+             Blank[]]] :> (
+           Increment[
+            TypeSystem`NestedGrid`PackagePrivate`$contextMenuTrigger]; 
+           TypeSystem`NestedGrid`PackagePrivate`$lastPath = 
+            TypeSystem`NestedGrid`PackagePrivate`path$; 
+           TypeSystem`NestedGrid`PackagePrivate`$lastPathType = 
+            TypeSystem`NestedGrid`PackagePrivate`pathType$; 
+           TypeSystem`NestedGrid`PackagePrivate`$lastPathIsLeafHeader = 
+            TypeSystem`NestedGrid`PackagePrivate`isLeafHeader$; 
+           TypeSystem`NestedGrid`PackagePrivate`$lastOutputID = 
+            TypeSystem`NestedGrid`PackagePrivate`localHold[
+             TypeSystem`NestedGrid`PackagePrivate`$outputID$$]; 
+           TypeSystem`NestedGrid`PackagePrivate`makePathTrail[
+            TypeSystem`NestedGrid`PackagePrivate`path$, 
+             TypeSystem`NestedGrid`PackagePrivate`makePathElements]), Null :> 
+          Spacer[10], Blank[] :> Spacer[10]}], 
+        TrackedSymbols :> {
+         TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$}], FrameStyle -> 
+       None, ImageMargins -> 0, FrameMargins -> 0, Alignment -> Top, 
+       ImageSize -> {Automatic, 15}], FontSize -> 1], 
+     TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$ = Null}, 
+     DynamicWrapperBox[
+      DynamicBox[ToBoxes[
+        Dataset`DatasetContent[
+        2, "Path" -> Hold[TypeSystem`NestedGrid`PackagePrivate`$path$$], 
+         "Grid" -> Hold[TypeSystem`NestedGrid`PackagePrivate`$grid$$], 
+         "State" -> Hold[TypeSystem`NestedGrid`PackagePrivate`$state$$], 
+         "VPos" -> Hold[TypeSystem`NestedGrid`PackagePrivate`$vPos$$], "HPos" -> 
+         Hold[TypeSystem`NestedGrid`PackagePrivate`$hPos$$], "TopBar" -> 
+         Hold[TypeSystem`NestedGrid`PackagePrivate`$topBar$$], "BottomBar" -> 
+         Hold[TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$], "OutputID" -> 
+         Hold[
+           TypeSystem`NestedGrid`PackagePrivate`localHold[
+           TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]], StandardForm],
+       ImageSizeCache->{505., {74.134033203125, 79.865966796875}},
+       TrackedSymbols:>{
+        TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+         TypeSystem`NestedGrid`PackagePrivate`$grid$$}], 
+      TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$ = 
+      MouseAnnotation[],
+      ImageSizeCache->{505., {74.134033203125, 79.865966796875}}],
+     BaseStyle->{LineBreakWithin -> False},
+     DynamicModuleValues:>{},
+     Initialization:>(TypeSystem`NestedGrid`PackagePrivate`$outputID$$ = 
+      CreateUUID[]),
+     UnsavedVariables:>{TypeSystem`NestedGrid`PackagePrivate`$outputID$$}],
+    Deploy,
+    DefaultBaseStyle->"Deploy"],
+   Dataset`InterpretDataset[1],
+   Editable->False,
+   SelectWithContents->True,
+   Selectable->False], "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.9025102956106415`*^9, 3.9025102968289866`*^9}, 
+   3.902573780008045*^9},ExpressionUUID->"65972a58-6fbc-486c-a048-\
 a522bfc01f53"],
-
-Cell[CellGroupData[{
 
 Cell[BoxData[
  RowBox[{
@@ -4238,13 +4240,13 @@ lastPathIsLeafHeader, TypeSystem`NestedGrid`PackagePrivate`headerHidden$ = And[
         Hold[
           TypeSystem`NestedGrid`PackagePrivate`localHold[
           TypeSystem`NestedGrid`PackagePrivate`$outputID$$]]], StandardForm],
-      ImageSizeCache->{767., {212.634033203125, 218.365966796875}},
+      ImageSizeCache->{767., {211.634033203125, 217.365966796875}},
       TrackedSymbols:>{
        TypeSystem`NestedGrid`PackagePrivate`$state$$, 
         TypeSystem`NestedGrid`PackagePrivate`$grid$$}], 
      TypeSystem`NestedGrid`PackagePrivate`mouseAnnotation$$ = 
      MouseAnnotation[],
-     ImageSizeCache->{767., {212.634033203125, 218.365966796875}}],
+     ImageSizeCache->{767., {211.634033203125, 217.365966796875}}],
     BaseStyle->{LineBreakWithin -> False},
     DynamicModuleValues:>{},
     Initialization:>(TypeSystem`NestedGrid`PackagePrivate`$outputID$$ = 
@@ -4255,11 +4257,9 @@ lastPathIsLeafHeader, TypeSystem`NestedGrid`PackagePrivate`headerHidden$ = And[
   Dataset`InterpretDataset[1],
   Editable->False,
   SelectWithContents->True,
-  Selectable->False]], "Output",
- CellChangeTimes->{3.9025103331500826`*^9},
- CellLabel->
-  "Out[259]=",ExpressionUUID->"69eaa09c-002f-42b2-8f48-3b8059f92d04"]
-}, Open  ]]
+  Selectable->False]], "Input",
+ CellChangeTimes->{3.902573795700424*^9},
+ CellLabel->"In[30]:=",ExpressionUUID->"69eaa09c-002f-42b2-8f48-3b8059f92d04"]
 }, Closed]],
 
 Cell[CellGroupData[{
@@ -42877,7 +42877,7 @@ Cell["Aplikacija v oblaku\[LineSeparator]", "Section",
 
 Cell[BoxData[
  RowBox[{
-  RowBox[{"Pretvornik", "=", 
+  RowBox[{"pretvori", "=", 
    RowBox[{
     RowBox[{"CurrencyConvert", "[", 
      RowBox[{
@@ -42887,9 +42887,45 @@ Cell[BoxData[
       RowBox[{
        RowBox[{"Interpreter", "[", "\"\<CurrencyName\>\"", "]"}], "[", 
        "#currency", "]"}]}], "]"}], "&"}]}], ";"}]], "Input",
- CellChangeTimes->{{3.902572136987714*^9, 
-  3.902572136987714*^9}},ExpressionUUID->"d174eb6f-e87b-404c-898b-\
+ CellChangeTimes->{{3.902572136987714*^9, 3.902572136987714*^9}, 
+   3.902580280904462*^9, 3.902580401102371*^9, {3.902580530443412*^9, 
+   3.902580532034763*^9}, {3.902580673492128*^9, 
+   3.9025806747948976`*^9}},ExpressionUUID->"d174eb6f-e87b-404c-898b-\
 7326f5f28866"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"pretvori", "[", 
+  RowBox[{"<|", 
+   RowBox[{
+    RowBox[{"\"\<amount\>\"", "->", "\"\<ten bitcoins\>\""}], ",", 
+    RowBox[{"\"\<currency\>\"", "->", "\"\<us dollars\>\""}]}], "|>"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{
+  3.9025721711085896`*^9, {3.902580174109086*^9, 3.90258019117974*^9}, {
+   3.902580243258496*^9, 3.9025802475384617`*^9}, {3.902580289263341*^9, 
+   3.9025802976583157`*^9}, {3.9025805352364793`*^9, 3.902580537043708*^9}, {
+   3.902580677716549*^9, 
+   3.902580679491973*^9}},ExpressionUUID->"ddd907b8-7059-43e0-a324-\
+df5bf3356513"],
+
+Cell[BoxData[
+ TemplateBox[{
+   InterpretationBox[
+    TagBox[
+     InterpretationBox[
+      StyleBox["\"257\[ThinSpace]563.46\"", ShowStringCharacters -> False], 
+      257563.45703125, AutoDelete -> True], 
+     NumberForm[#, {Infinity, 2}, DigitBlock -> 3, NumberSeparator -> 
+      "\[ThinSpace]"]& ], 257563.45703125, Selectable -> False], 
+   RowBox[{
+     FormBox["\"$\"", TraditionalForm], "\[VeryThinSpace]"}], "US dollars", 
+   "\"USDollars\""},
+  "QuantityPrefix"]], "Output",
+ CellChangeTimes->{3.9025803003848305`*^9, 3.902580411752489*^9},
+ CellLabel->"Out[11]=",ExpressionUUID->"8cd957c0-9340-4237-b0ee-16b68f5b3644"]
+}, Open  ]],
 
 Cell[CellGroupData[{
 
@@ -42903,19 +42939,16 @@ Cell[BoxData[{
        RowBox[{"\"\<amount\>\"", "->", 
         RowBox[{"<|", 
          RowBox[{
-          RowBox[{"\"\<Label\>\"", "->", "\"\<Stevilo in 1. valuta\>\""}], 
-          ",", 
-          RowBox[{"\"\<Help\>\"", "->", "\"\<Primer: 10 bitcoins\>\""}]}], 
+          RowBox[{"\"\<Label\>\"", "->", "\"\<Amount\>\""}], ",", 
+          RowBox[{"\"\<Help\>\"", "->", "\"\<Npr: 10 bitcoins\>\""}]}], 
          "|>"}]}], ",", 
        RowBox[{"\"\<currency\>\"", "->", 
         RowBox[{"<|", 
          RowBox[{
-          RowBox[{
-          "\"\<Label\>\"", "->", 
-           "\"\<Ime valute v katero zelite pretvoriti\>\""}], ",", 
-          RowBox[{"\"\<Help\>\"", "->", "\"\<Primer: Us dollar\>\""}]}], 
+          RowBox[{"\"\<Label\>\"", "->", "\"\<Currency name\>\""}], ",", 
+          RowBox[{"\"\<Help\>\"", "->", "\"\<Npr: ethereum\>\""}]}], 
          "|>"}]}]}], "}"}], ",", "converter", ",", 
-     RowBox[{"PageTheme", "->", "\"\<Black\>\""}], ",", 
+     RowBox[{"PageTheme", "->", "\"\<Blue\>\""}], ",", 
      RowBox[{"AppearanceRules", "->", 
       RowBox[{"<|", 
        RowBox[{
@@ -42923,33 +42956,38 @@ Cell[BoxData[{
         ",", 
         RowBox[{
         "\"\<Description\>\"", "->", 
-         "\"\<Vnesite stevilo in valuto iz katere zelite pretvarjati, ter v \
-katero valuto\>\""}], ",", 
-        RowBox[{"\"\<SubmitLabel\>\"", "->", "\"\<Convert!\>\""}]}], 
+         "\"\<Vnesi kolicino in valute med katerimi zelite pretvarjati\>\""}],
+         ",", 
+        RowBox[{"\"\<SubmitLabel\>\"", "->", "\"\<Pretvori!\>\""}]}], 
        "|>"}]}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{"CloudDeploy", "[", 
-  RowBox[{"form", ",", "\"\<Pretvornik\>\"", ",", 
+  RowBox[{"form", ",", "\"\<CryptocurrencyConverter\>\"", ",", 
    RowBox[{"Permissions", "->", "\"\<Public\>\""}]}], "]"}]}], "Input",
- CellChangeTimes->{3.9025721711085896`*^9},
- CellLabel->"In[28]:=",ExpressionUUID->"ddd907b8-7059-43e0-a324-df5bf3356513"],
+ CellChangeTimes->{{3.9025804308178024`*^9, 3.9025804391779757`*^9}, {
+  3.9025805246431313`*^9, 3.902580549661644*^9}, {3.9025806008923206`*^9, 
+  3.902580602283635*^9}, {3.9025806511860995`*^9, 3.9025806699393177`*^9}, {
+  3.902580707999813*^9, 3.902580785120943*^9}, {3.9025808198856344`*^9, 
+  3.90258082963797*^9}, {3.9025808693386216`*^9, 3.9025808861004314`*^9}},
+ CellLabel->"In[30]:=",ExpressionUUID->"5930250b-cf4f-403d-9af7-2baee41cb212"],
 
 Cell[BoxData[
  InterpretationBox[
   RowBox[{"CloudObject", "[", 
    TemplateBox[{
-    "\"https://www.wolframcloud.com/obj/vidko021/Pretvornik\"", 
-     "https://www.wolframcloud.com/obj/vidko021/Pretvornik"},
+    "\"https://www.wolframcloud.com/obj/vidko021/CryptocurrencyConverter\"", 
+     "https://www.wolframcloud.com/obj/vidko021/CryptocurrencyConverter"},
     "HyperlinkURL"], "]"}],
-  CloudObject["https://www.wolframcloud.com/obj/vidko021/Pretvornik"],
+  CloudObject[
+  "https://www.wolframcloud.com/obj/vidko021/CryptocurrencyConverter"],
   SelectWithContents->True]], "Output",
- CellChangeTimes->{3.9025721740290804`*^9},
- CellLabel->"Out[29]=",ExpressionUUID->"f05764a4-0a68-43f6-badc-679993c308aa"]
+ CellChangeTimes->{3.9025808923208485`*^9},
+ CellLabel->"Out[31]=",ExpressionUUID->"a0d8b38d-dac6-409b-bcce-d6bb1024049f"]
 }, Open  ]]
 }, Closed]]
 }, Open  ]]
 },
-WindowSize->{1924, 989},
-WindowMargins->{{166, Automatic}, {Automatic, 79}},
+WindowSize->{1904, 980},
+WindowMargins->{{0, Automatic}, {0, Automatic}},
 FrontEndVersion->"12.3 for Microsoft Windows (64-bit) (July 9, 2021)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"2cd335db-73c8-4c67-9d97-3ebec50d7b69"
@@ -42960,19 +42998,19 @@ ExpressionUUID->"2cd335db-73c8-4c67-9d97-3ebec50d7b69"
 (*CellTagsOutline
 CellTagsIndex->{
  "CompanyData_templates"->{
-  Cell[2027504, 38917, 842, 18, 50, "Input",ExpressionUUID->"f2592a5c-71c1-4d75-b03a-973b05ad5872",
+  Cell[2028752, 38917, 842, 18, 50, "Input",ExpressionUUID->"f2592a5c-71c1-4d75-b03a-973b05ad5872",
    CellTags->"CompanyData_templates"],
-  Cell[2028349, 38937, 28063, 601, 249, "Output",ExpressionUUID->"df1db959-0c7b-4beb-afa9-a3b7911d592b",
+  Cell[2029597, 38937, 28063, 601, 249, "Output",ExpressionUUID->"df1db959-0c7b-4beb-afa9-a3b7911d592b",
    CellTags->"CompanyData_templates"],
-  Cell[2056715, 39550, 565, 14, 29, "Input",ExpressionUUID->"01cbab03-50a5-4520-83a7-9f79c853b469",
+  Cell[2057963, 39550, 565, 14, 29, "Input",ExpressionUUID->"01cbab03-50a5-4520-83a7-9f79c853b469",
    CellTags->"CompanyData_templates"],
-  Cell[2057283, 39566, 23844, 531, 247, "Output",ExpressionUUID->"80310564-acc1-454f-ae9e-a68633f6d361",
+  Cell[2058531, 39566, 23844, 531, 247, "Output",ExpressionUUID->"80310564-acc1-454f-ae9e-a68633f6d361",
    CellTags->"CompanyData_templates"]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"CompanyData_templates", 2237779, 42961}
+ {"CompanyData_templates", 2240716, 42999}
  }
 *)
 (*NotebookFileOutline
@@ -42981,79 +43019,81 @@ Cell[CellGroupData[{
 Cell[580, 22, 190, 3, 98, "Title",ExpressionUUID->"314e2b53-08ff-4810-aa48-cf2c2e31fbcb"],
 Cell[CellGroupData[{
 Cell[795, 29, 210, 4, 67, "Section",ExpressionUUID->"6afcbc2f-354a-4980-9241-bc4da5cfc81a"],
-Cell[1008, 35, 1578, 25, 173, "Text",ExpressionUUID->"496b71ab-6170-4220-9c5f-7c5306d786c1"],
+Cell[1008, 35, 1618, 25, 196, "Text",ExpressionUUID->"496b71ab-6170-4220-9c5f-7c5306d786c1"],
 Cell[CellGroupData[{
-Cell[2611, 64, 303, 7, 29, "Input",ExpressionUUID->"4fedddd4-cf6d-4ac3-96f9-68b565ee3146"],
-Cell[2917, 73, 34242, 621, 207, "Output",ExpressionUUID->"e24f2ddb-6cf6-4b5c-ada6-57f6e61c3866"]
+Cell[2651, 64, 303, 7, 29, "Input",ExpressionUUID->"4fedddd4-cf6d-4ac3-96f9-68b565ee3146"],
+Cell[2957, 73, 34242, 621, 205, "Output",ExpressionUUID->"e24f2ddb-6cf6-4b5c-ada6-57f6e61c3866"]
 }, Open  ]],
-Cell[37174, 697, 450, 9, 29, "Input",ExpressionUUID->"0fcf27ad-170c-46e3-8477-d9bb24b8673f"],
-Cell[37627, 708, 77387, 1460, 203, "Input",ExpressionUUID->"65972a58-6fbc-486c-a048-a522bfc01f53"],
+Cell[37214, 697, 450, 9, 29, "Input",ExpressionUUID->"0fcf27ad-170c-46e3-8477-d9bb24b8673f"],
+Cell[37667, 708, 78636, 1464, 203, "Input",ExpressionUUID->"65972a58-6fbc-486c-a048-a522bfc01f53"],
+Cell[116306, 2174, 384, 8, 29, "Input",ExpressionUUID->"d0da8d37-b60b-4f80-b9ee-f998ab27190e"],
+Cell[116693, 2184, 119671, 2077, 445, "Input",ExpressionUUID->"69eaa09c-002f-42b2-8f48-3b8059f92d04"]
+}, Closed]],
 Cell[CellGroupData[{
-Cell[115039, 2172, 384, 8, 29, "Input",ExpressionUUID->"d0da8d37-b60b-4f80-b9ee-f998ab27190e"],
-Cell[115426, 2182, 119678, 2078, 451, "Output",ExpressionUUID->"69eaa09c-002f-42b2-8f48-3b8059f92d04"]
+Cell[236401, 4266, 311, 5, 53, "Section",ExpressionUUID->"1b523b60-eb27-4e50-aa43-06524fc82366"],
+Cell[236715, 4273, 528, 7, 29, "Input",ExpressionUUID->"b729d3b7-c68b-48e4-b1b5-507082f618c8"],
+Cell[237246, 4282, 370, 8, 58, "Text",ExpressionUUID->"5a765c06-3def-495b-901b-36a1d687118b"],
+Cell[237619, 4292, 304, 5, 29, "Input",ExpressionUUID->"1be76380-3a49-4a8c-a46b-cf90855e72e2"],
+Cell[237926, 4299, 2502, 64, 170, "Input",ExpressionUUID->"42681bd6-4c26-4a1d-beee-8ebc50ae0a9c"],
+Cell[240431, 4365, 168716, 3233, 623, "Input",ExpressionUUID->"2efb2dee-9cf3-446f-9082-2d39cbfe8e38"],
+Cell[CellGroupData[{
+Cell[409172, 7602, 3624, 82, 210, "Input",ExpressionUUID->"2e94ba04-0785-49a0-abe4-53c8cfe16b0d"],
+Cell[412799, 7686, 613, 11, 33, "Output",ExpressionUUID->"6bdaa0fa-ca99-4f3b-a78d-52f673f2be03"],
+Cell[413415, 7699, 19277, 561, 561, "Output",ExpressionUUID->"0370fc71-8f4e-4889-b9eb-254519f3806b"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[432729, 8265, 190, 3, 54, "Subsection",ExpressionUUID->"5d8e0875-f464-43ea-ae0f-a30bafec92f3"],
+Cell[432922, 8270, 154, 3, 29, "Input",ExpressionUUID->"632816c2-746f-4124-9445-7726c5ff5af8"],
+Cell[433079, 8275, 152, 3, 29, "Input",ExpressionUUID->"8df41551-866d-461a-8c8f-1ee6c5172a27"],
+Cell[CellGroupData[{
+Cell[433256, 8282, 2037, 48, 150, "Input",ExpressionUUID->"de1f6e2c-8230-4894-bfac-4e4ad8129e1c"],
+Cell[435296, 8332, 716645, 12719, 816, "Output",ExpressionUUID->"1871b903-7664-4477-bcaf-3e68485ac02d"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1151978, 21056, 1967, 47, 230, "Input",ExpressionUUID->"6cbd1506-231f-4250-abdf-f4f22d969a40"],
+Cell[1153948, 21105, 817745, 16572, 660, "Output",ExpressionUUID->"82b82116-cd58-4311-bf59-9c3676f22a0e"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1971730, 37682, 487, 13, 50, "Input",ExpressionUUID->"1479f1a2-d872-43c8-97eb-05b9c41d6eee"],
+Cell[1972220, 37697, 27823, 597, 240, "Output",ExpressionUUID->"57302a05-a749-4327-97e9-2d3fb66f027b"]
+}, Open  ]],
+Cell[2000058, 38297, 737, 16, 50, "Input",ExpressionUUID->"b5483f6d-b347-4c47-8a14-065aa37e478b"],
+Cell[2000798, 38315, 27929, 598, 240, "Input",ExpressionUUID->"ba97a129-962b-4deb-a7ff-2568d40969d5"],
+Cell[CellGroupData[{
+Cell[2028752, 38917, 842, 18, 50, "Input",ExpressionUUID->"f2592a5c-71c1-4d75-b03a-973b05ad5872",
+ CellTags->"CompanyData_templates"],
+Cell[2029597, 38937, 28063, 601, 249, "Output",ExpressionUUID->"df1db959-0c7b-4beb-afa9-a3b7911d592b",
+ CellTags->"CompanyData_templates"]
+}, Open  ]],
+Cell[2057675, 39541, 263, 5, 70, "Input",ExpressionUUID->"23a923f4-f319-47c4-bcdc-eed1032ced13"],
+Cell[CellGroupData[{
+Cell[2057963, 39550, 565, 14, 29, "Input",ExpressionUUID->"01cbab03-50a5-4520-83a7-9f79c853b469",
+ CellTags->"CompanyData_templates"],
+Cell[2058531, 39566, 23844, 531, 247, "Output",ExpressionUUID->"80310564-acc1-454f-ae9e-a68633f6d361",
+ CellTags->"CompanyData_templates"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2082412, 40102, 853, 19, 29, "Input",ExpressionUUID->"b858a37d-bd93-40d9-ac04-26fa7ac961ee"],
+Cell[2083268, 40123, 128047, 2185, 244, "Output",ExpressionUUID->"72b451d7-eceb-4f8f-938a-86d25e88aeb6"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2211352, 42313, 455, 12, 29, "Input",ExpressionUUID->"28c973b7-0a18-487b-8223-b3831b0366ee"],
+Cell[2211810, 42327, 23496, 525, 251, "Output",ExpressionUUID->"b70501c1-abc0-42ab-a704-8163540504ea"]
+}, Open  ]],
+Cell[2235321, 42855, 283, 5, 29, "Input",ExpressionUUID->"333c3d8a-7046-4870-9baf-52260ad6e231"],
+Cell[2235607, 42862, 235, 4, 29, "Input",ExpressionUUID->"6d8db866-d031-4b59-a4e8-f62efb8c57ba"]
 }, Open  ]]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[235153, 4266, 311, 5, 53, "Section",ExpressionUUID->"1b523b60-eb27-4e50-aa43-06524fc82366"],
-Cell[235467, 4273, 528, 7, 29, "Input",ExpressionUUID->"b729d3b7-c68b-48e4-b1b5-507082f618c8"],
-Cell[235998, 4282, 370, 8, 58, "Text",ExpressionUUID->"5a765c06-3def-495b-901b-36a1d687118b"],
-Cell[236371, 4292, 304, 5, 29, "Input",ExpressionUUID->"1be76380-3a49-4a8c-a46b-cf90855e72e2"],
-Cell[236678, 4299, 2502, 64, 170, "Input",ExpressionUUID->"42681bd6-4c26-4a1d-beee-8ebc50ae0a9c"],
-Cell[239183, 4365, 168716, 3233, 623, "Input",ExpressionUUID->"2efb2dee-9cf3-446f-9082-2d39cbfe8e38"],
+Cell[2235891, 42872, 205, 3, 91, "Section",ExpressionUUID->"2cfea8b4-d48d-46c1-87e0-8c9a921e8e23"],
+Cell[2236099, 42877, 656, 16, 29, "Input",ExpressionUUID->"d174eb6f-e87b-404c-898b-7326f5f28866"],
 Cell[CellGroupData[{
-Cell[407924, 7602, 3624, 82, 210, "Input",ExpressionUUID->"2e94ba04-0785-49a0-abe4-53c8cfe16b0d"],
-Cell[411551, 7686, 613, 11, 33, "Output",ExpressionUUID->"6bdaa0fa-ca99-4f3b-a78d-52f673f2be03"],
-Cell[412167, 7699, 19277, 561, 561, "Output",ExpressionUUID->"0370fc71-8f4e-4889-b9eb-254519f3806b"]
+Cell[2236780, 42897, 584, 13, 29, "Input",ExpressionUUID->"ddd907b8-7059-43e0-a324-df5bf3356513"],
+Cell[2237367, 42912, 632, 14, 45, "Output",ExpressionUUID->"8cd957c0-9340-4237-b0ee-16b68f5b3644"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[431481, 8265, 190, 3, 54, "Subsection",ExpressionUUID->"5d8e0875-f464-43ea-ae0f-a30bafec92f3"],
-Cell[431674, 8270, 154, 3, 29, "Input",ExpressionUUID->"632816c2-746f-4124-9445-7726c5ff5af8"],
-Cell[431831, 8275, 152, 3, 29, "Input",ExpressionUUID->"8df41551-866d-461a-8c8f-1ee6c5172a27"],
-Cell[CellGroupData[{
-Cell[432008, 8282, 2037, 48, 150, "Input",ExpressionUUID->"de1f6e2c-8230-4894-bfac-4e4ad8129e1c"],
-Cell[434048, 8332, 716645, 12719, 816, "Output",ExpressionUUID->"1871b903-7664-4477-bcaf-3e68485ac02d"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[1150730, 21056, 1967, 47, 230, "Input",ExpressionUUID->"6cbd1506-231f-4250-abdf-f4f22d969a40"],
-Cell[1152700, 21105, 817745, 16572, 660, "Output",ExpressionUUID->"82b82116-cd58-4311-bf59-9c3676f22a0e"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[1970482, 37682, 487, 13, 50, "Input",ExpressionUUID->"1479f1a2-d872-43c8-97eb-05b9c41d6eee"],
-Cell[1970972, 37697, 27823, 597, 240, "Output",ExpressionUUID->"57302a05-a749-4327-97e9-2d3fb66f027b"]
-}, Open  ]],
-Cell[1998810, 38297, 737, 16, 50, "Input",ExpressionUUID->"b5483f6d-b347-4c47-8a14-065aa37e478b"],
-Cell[1999550, 38315, 27929, 598, 240, "Input",ExpressionUUID->"ba97a129-962b-4deb-a7ff-2568d40969d5"],
-Cell[CellGroupData[{
-Cell[2027504, 38917, 842, 18, 50, "Input",ExpressionUUID->"f2592a5c-71c1-4d75-b03a-973b05ad5872",
- CellTags->"CompanyData_templates"],
-Cell[2028349, 38937, 28063, 601, 249, "Output",ExpressionUUID->"df1db959-0c7b-4beb-afa9-a3b7911d592b",
- CellTags->"CompanyData_templates"]
-}, Open  ]],
-Cell[2056427, 39541, 263, 5, 70, "Input",ExpressionUUID->"23a923f4-f319-47c4-bcdc-eed1032ced13"],
-Cell[CellGroupData[{
-Cell[2056715, 39550, 565, 14, 29, "Input",ExpressionUUID->"01cbab03-50a5-4520-83a7-9f79c853b469",
- CellTags->"CompanyData_templates"],
-Cell[2057283, 39566, 23844, 531, 247, "Output",ExpressionUUID->"80310564-acc1-454f-ae9e-a68633f6d361",
- CellTags->"CompanyData_templates"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[2081164, 40102, 853, 19, 29, "Input",ExpressionUUID->"b858a37d-bd93-40d9-ac04-26fa7ac961ee"],
-Cell[2082020, 40123, 128047, 2185, 244, "Output",ExpressionUUID->"72b451d7-eceb-4f8f-938a-86d25e88aeb6"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[2210104, 42313, 455, 12, 29, "Input",ExpressionUUID->"28c973b7-0a18-487b-8223-b3831b0366ee"],
-Cell[2210562, 42327, 23496, 525, 251, "Output",ExpressionUUID->"b70501c1-abc0-42ab-a704-8163540504ea"]
-}, Open  ]],
-Cell[2234073, 42855, 283, 5, 29, "Input",ExpressionUUID->"333c3d8a-7046-4870-9baf-52260ad6e231"],
-Cell[2234359, 42862, 235, 4, 29, "Input",ExpressionUUID->"6d8db866-d031-4b59-a4e8-f62efb8c57ba"]
-}, Open  ]]
-}, Closed]],
-Cell[CellGroupData[{
-Cell[2234643, 42872, 205, 3, 91, "Section",ExpressionUUID->"2cfea8b4-d48d-46c1-87e0-8c9a921e8e23"],
-Cell[2234851, 42877, 511, 14, 29, "Input",ExpressionUUID->"d174eb6f-e87b-404c-898b-7326f5f28866"],
-Cell[CellGroupData[{
-Cell[2235387, 42895, 1517, 38, 70, "Input",ExpressionUUID->"ddd907b8-7059-43e0-a324-df5bf3356513"],
-Cell[2236907, 42935, 470, 10, 36, "Output",ExpressionUUID->"f05764a4-0a68-43f6-badc-679993c308aa"]
+Cell[2238036, 42931, 1766, 39, 70, "Input",ExpressionUUID->"5930250b-cf4f-403d-9af7-2baee41cb212"],
+Cell[2239805, 42972, 512, 11, 36, "Output",ExpressionUUID->"a0d8b38d-dac6-409b-bcce-d6bb1024049f"]
 }, Open  ]]
 }, Closed]]
 }, Open  ]]
