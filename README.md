@@ -1,2 +1,10 @@
-<h1>Vpliv pandemije COVID-19 na trg kriptovalut<h1>
-<h3>V svojem projektu bom na kratko poskušal ugotoviti, ali se iz grafov, ki spremljajo spreminjanje cene skozi čas, da razbrati kakšen vpliv bi lahko pandemija imela na trg kriptovalut<h3>
+# Projekt-ROM
+## Vpliv pandemije COVID-19 na trg kriptovalut
+V svojem projektu bom na kratko poskušal ugotoviti, ali se iz grafov, ki spremljajo spreminjanje cene skozi čas, da razbrati kakšen vpliv bi lahko pandemija imela na trg kriptovalut.
+
+NAČRT PROJEKTA
+1. Kratek uvod v kriptovalute
+2. Pridobitev podatkov z interneta (večina Yahoo finance)
+3. prikaz grafov
+
+Link do YT posnetka:
