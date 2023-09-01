@@ -8,4 +8,4 @@ NAČRT PROJEKTA
 3. prikaz grafov
 4. na koncu sem sestavil še preprost pretvornik v oblaku
 
-Link do YT posnetka:
+Link do YT posnetka:  https://www.youtube.com/watch?v=U9coJ_sf12Y&t=1s
